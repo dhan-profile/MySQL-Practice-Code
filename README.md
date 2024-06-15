@@ -9,6 +9,7 @@ Files
 The repository contains the following files:
 
 * `student.sql`: Examples of basic statements of DDL, DML, DQL(or)DRL, datatypes, numeric types, datetime.
+* `dumps`: Folder containing previous DB backups(Ignore).
 
 Learning Resources
 -----------------
