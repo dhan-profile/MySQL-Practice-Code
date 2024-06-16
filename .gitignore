@@ -1,0 +1,5 @@
+# .gitignore to Ignore files and folders
+########################################
+empty
+empty.txt
+*.bak
