@@ -34,3 +34,22 @@ insert into books values(2, 'Java: A Beginners Guide', 'Herbert Schildt', 720, 9
 use library;
 insert into books(S_No, Book, Pages, Price) values(5, 'Database Systems', 990, 1000);
 
+
+select * from books;
+
+create table studentResult(rollNo int primary key auto_increment, sname varchar(30), total int not null default 0, check(total <600), comments varchar(30) default "good");
+drop table studentResult;
+
+insert into studentResult values(1, "dhanush", 400, "good");
+insert into studentResult (sname, total, comments) values("arun", 200, "Excellent");
+
+insert into studentResult (sname, total) values("saran", 450);
+insert into studentResult (sname) values("saran");
+
+update studentResult set total = 100 where rollNo = 4;
+
+set sql_safe_updates =1;
+update studentResult set total = 350 where sname="saran";
+
+select * from studentResult;
+
