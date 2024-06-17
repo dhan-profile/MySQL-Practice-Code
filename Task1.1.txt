@@ -1,0 +1,36 @@
+
+1. WAQTD details of employee who earns salary greater than 1250 and less than 2000. 
+2. WAQTD details of employee where salary should be less than 1500 or should be working as team leader.
+3. WAQTD details of employee working as clerk and earning less than 1300.
+4. WAQTD name and hiredate of employee working as manager in dept 30.
+5. WAQTD details of emp along with annual salary if they are working in dept 30 as salesman and their annual salary has to greater than 1500.
+6. WAQTD all the details of employee working in dept 30 or as supervisior.
+7. WAQTD name of the employee who's salary is less than 1100 and their designation is clerk.
+8. WAQTD name and salary annual salary and dept no if dept no is 20 earning more than 2300 and annual salary exceeds 3000.
+9. WAQTD empno and name of the employee working as manager in dept 20.
+10. WAQTD details of employee working in dept 20 or 30.
+11. WAQTD details of employee working as engineer in dept 10.
+12. WAQTD details of employee working as doctor with salary 2980.
+13. WAQTD name and dept no of employee working in dept no 20 or 30.
+14. WAQTD details of employee who is not working as clerk or manager. 
+15. WAQTD details of employee hiredate after 2020 and before 2021. 
+16. WAQTD details of employee hiredate during the year 2021.
+17. WAQTD details of employee who are not hired during the year 2022.
+18. ✅ WAQTD emp names and commission of employee who does not earn commission. 
+19. WAQTD details of employee who doesn't report to any manager.
+20. WAQTD details of employee who earns commission.
+21. WAQTD name of the employee whose name starts with char 'A'.
+22. WAQTD name of employee whose name ends with the char 'K'.
+23. WAQTD ename whose name has char 'A' in it.
+24. WAQTD ename whose name has char 'A' as the 3rd letter.
+25. WAQTD ename whose name has char 'R' as the 3rd letter and the total char's should be '6' in their name.
+26. WAQTD name and dept no, job of employee working as clerk in dept no 10 or 20. 
+27. WAQTD details of employee working as clerk or manger in dept10.
+28. WAQTD name of employee working in dept 10,20,30,40.
+29. WAQTD details of employee with empno 7902,7839.
+30. WAQTD details of employee working as manager or salesman or clerk.
+31. WAQTD name of employee hired after 20 and before 22.
+32. WAQTD details of employee earning more than 1250 but less than 2000.
+33. WAQTD name of employee hired after 21 into dept 10 or 30.
+34. WAQTD name of employee along with annual salary for the employee working as manager or clerk and should earn commission.
+35. WAQTD all the details along with A-salary if salary is between 1000 and 2500 annual salary more than 3000.

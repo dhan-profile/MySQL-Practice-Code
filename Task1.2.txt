@@ -1,0 +1,14 @@
+
+1. WAQTD number of employee getting salary less than 2000 in dept 10. 
+2. WAQTD total salary needed to pay employee working as clerk.\
+3. WAQTD average salary needed to pay all employees.
+4. WAQTD no of employee having 'A' as their first character. 
+5. WAQTD number of employees working as clerk or manager. 
+6. WAQTD total salary need to pay employee hired in feb.
+7. WAQTD number of employeea reporting to 7839(MGR).
+8. WAQTD number of employee getting commission in dept no 30.
+9. WAQTD avg salary,total salary, number of employees and maximum salary given to employees workings as manager.
+10. WAQTD number of employee having 'A' in their names.
+11. WAQTD no. of employee and total salary needed to pay the employee who have 2
+consicutive 'L' in their names.
+12. WAQTD number of departments present in empty table.
