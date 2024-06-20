@@ -155,6 +155,7 @@ select count(ENAME) from employee where JOB in ('CLERK', 'MANAGER');
 
 -- 6. WAQTD total salary need to pay employee hired in feb.
 select sum(SAL) from employee where HIREDATE like "_____02___";
+-- select sum(SAL) from employee where HIREDATE between '' and '';
 
 -- 7. WAQTD number of employeea reporting to 7839(MGR).
 select count(ENAME) from employee where MGR=7839;

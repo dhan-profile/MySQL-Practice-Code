@@ -55,7 +55,7 @@ insert into studentResult (sname) values("saran");
 
 update studentResult set total = 100 where rollNo = 4;
 
-set sql_safe_updates =1;
+set sql_safe_updates =0;
 update studentResult set total = 350 where sname="saran";
 
 use library;
@@ -239,3 +239,7 @@ select count(ENAME), sum(SAL) from employee where ENAME like '%ll%';
 -- 12. WAQTD number of departments present in empty table.
 select count(distinct DEPTNO) from employee;
 
+alter table books add(YesOrNo char(5));
+alter table books drop YesOrNo;
+update books set YesOrNo='yes' where S_No=1;
+select * from books;
