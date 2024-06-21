@@ -134,4 +134,130 @@ SELECT * FROM table_name USE INDEX (index_name) WHERE column = 'value';
 - Avoid indexing columns with a low level of selectivity (e.g., boolean columns).
 - Monitor and adjust indexes as the database evolves and query patterns change.
 
-Understanding and effectively using these aspects of indexing in MySQL will greatly enhance your ability to optimize query performance and manage large datasets efficiently.
+<hr>
+
+<div align="center"><h1>SubQuery in SQL</h1></div>
+
+### What is a Subquery?
+
+A subquery is a query nested inside another query. It can be placed in various clauses such as SELECT, FROM, WHERE, and HAVING. Think of it as solving a smaller puzzle (the subquery) to find a piece that fits into the larger puzzle (the main query).
+
+### Types of Subqueries
+
+1. **Single-Row Subqueries**: Returns one row.
+2. **Multi-Row Subqueries**: Returns multiple rows.
+3. **Scalar Subqueries**: Returns a single value.
+4. **Correlated Subqueries**: Subqueries that reference columns from the outer query.
+5. **Nested Subqueries**: Subqueries within subqueries.
+
+### Key Concepts and Examples
+
+#### 1. Single-Row Subqueries
+
+**Analogy**: Imagine asking for the age of the oldest student in a class. The answer is a single value that can be used to find other students of the same age.
+
+**Syntax**:
+```sql
+SELECT column_name
+FROM table_name
+WHERE column_name = (SELECT column_name FROM table_name WHERE condition);
+```
+
+**Example**:
+```sql
+SELECT name
+FROM employees
+WHERE salary = (SELECT MAX(salary) FROM employees);
+```
+
+This query finds the name of the employee with the highest salary.
+
+#### 2. Multi-Row Subqueries
+
+**Analogy**: Suppose you want to know which products belong to the categories that have been recently updated. Here, multiple category IDs can be returned.
+
+**Syntax**:
+```sql
+SELECT column_name
+FROM table_name
+WHERE column_name IN (SELECT column_name FROM table_name WHERE condition);
+```
+
+**Example**:
+```sql
+SELECT name
+FROM products
+WHERE category_id IN (SELECT id FROM categories WHERE updated_at > '2023-01-01');
+```
+
+This query finds products in categories updated after a certain date.
+
+#### 3. Scalar Subqueries
+
+**Analogy**: If you need the average score of a class to compare it with each student's score, a scalar subquery provides that single average value.
+
+**Syntax**:
+```sql
+SELECT column_name, (SELECT single_value_column FROM table_name WHERE condition) AS alias_name
+FROM table_name;
+```
+
+**Example**:
+```sql
+SELECT name, salary, (SELECT AVG(salary) FROM employees) AS avg_salary
+FROM employees;
+```
+
+This query compares each employee's salary to the average salary.
+
+#### 4. Correlated Subqueries
+
+**Analogy**: This is like checking each student's score against the class average while calculating the class average excluding the student being checked. It's a subquery that depends on the outer query.
+
+**Syntax**:
+```sql
+SELECT column_name
+FROM table_name outer
+WHERE column_name operator (SELECT column_name FROM table_name inner WHERE outer.column_name = inner.column_name);
+```
+
+**Example**:
+```sql
+SELECT e1.name, e1.salary
+FROM employees e1
+WHERE e1.salary > (SELECT AVG(e2.salary) FROM employees e2 WHERE e1.department_id = e2.department_id);
+```
+
+This query finds employees whose salary is above the average salary in their department.
+
+#### 5. Nested Subqueries
+
+**Analogy**: Think of nested subqueries as solving multiple layers of a puzzle. Each layer must be solved to provide the answer for the next layer.
+
+**Syntax**:
+```sql
+SELECT column_name
+FROM table_name
+WHERE column_name = (SELECT column_name FROM table_name WHERE column_name = (SELECT column_name FROM table_name WHERE condition));
+```
+
+**Example**:
+```sql
+SELECT name
+FROM employees
+WHERE department_id = (SELECT id FROM departments WHERE location_id = (SELECT id FROM locations WHERE city = 'San Francisco'));
+```
+
+This query finds employees who work in departments located in San Francisco.
+
+### Key Takeaways
+
+1. **Subqueries can be used in SELECT, FROM, WHERE, and HAVING clauses**.
+2. **Single-row subqueries** return one row, used with operators like `=`.
+3. **Multi-row subqueries** return multiple rows, used with operators like `IN`.
+4. **Scalar subqueries** return a single value, useful for comparisons.
+5. **Correlated subqueries** depend on the outer query for their values.
+6. **Nested subqueries** are subqueries within other subqueries for complex queries.
+
+
+
