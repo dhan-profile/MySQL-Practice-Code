@@ -14,6 +14,8 @@ create table employee2(EMPNO int,
                     DEPTNO int, 
                     foreign key(DEPTNO) references dept2(deptno));
 -- ====================================TABLE2====================================================
+rename table dept2 to department2;
+rename table department2 to dept2;
 insert into employee2(EMPNO, ENAME, JOB, MGR, HIREDATE, SAL, DEPTNO) values (7369, 'SMITH', 'CLERK', 7902, '1980-12-17', 800, 20);
 insert into employee2(EMPNO, ENAME, JOB, MGR, HIREDATE, SAL, DEPTNO) 
 values  (7499, 'ALLEN', 'SALESMAN', 7698, '1981-02-20', 1600, 30),
@@ -44,6 +46,10 @@ insert into dept2 (deptno, dname, location)
                   (40,'OPERATIONS','BOSTON');
 alter table dept2 modify dname varchar(30);
 select * from dept2;
+-- =========== ADD COLUMN ===============
+ALTER TABLE dept2 ADD (date_added DATE);
+-- =========== DELETE COLUMN ===============
+ALTER TABLE dept2 DROP date_added;
 
 drop table employee2;
 drop table dept2;
@@ -62,3 +68,9 @@ select JOB from employee2 union all select dname from dept2;
 select * from DEPTNO20;
 drop view DEPT20;
 
+select length(dname) from dept2;
+
+-- ======================JOIN============================
+
+SELECT * FROM employee2 INNER JOIN dept2 ON employee2.DEPTNO = dept2.deptno;
+SELECT e2.DEPTNO, e2.ENAME, e2.JOB, d2.dname, d2.location FROM employee2 AS e2 INNER JOIN dept2 as d2 ON e2.DEPTNO = d2.deptno;

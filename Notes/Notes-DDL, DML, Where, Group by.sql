@@ -8,7 +8,7 @@ create schema student;
 drop schema student;
 
 -- DDL - data definition language - create, alter, drop, truncate
---=================================================================
+-- =================================================================
 create table result(rollno int,
 					sname varchar(30),
                     grade char(1));
@@ -25,7 +25,7 @@ drop table result;
 truncate table result;
 
 -- DML- data manipulation language - insert, update, delete
---===========================================================
+-- ===========================================================
 insert into result values (101, 'jamuna', 'A', 75.3);
 insert into result values (102, 'jack', 'B', 65.3),(104, 'madhi', 'A', 74.3),(105, 'Hari', 'C', 55.3);
 insert into result(rollno,grade,percentage) values (108, 'A', 75.3);
@@ -38,11 +38,11 @@ update result set sname ="Gayathri";-- where rollno = 102;
 delete from result;-- where rollno =102;
 
 -- DQL/DRL - Data retrival language/data query langugae - select
---================================================================
+-- ================================================================
 select * from result;
 select rollno, sname from result;
 
---===================================================================================
+-- ===================================================================================
 
 create table studentResult(rollno int primary key auto_increment,
 							sname varchar(30) not null default "person",
@@ -73,7 +73,7 @@ insert into studentResult(rollno,total,comments) values(107,490,"Excellant");
 
 select * from studentResult;
 
---==================================17-06-2024=========================================
+-- ==================================17-06-2024=========================================
 
 create table student (sid int,
 					sname varchar(20),
@@ -147,7 +147,7 @@ select * from result where percentage >65  order by sname asc;
 select * from result sname limit 4 ;
 select * from result sname limit 4 offset 3;
 
---========================18-06-2024===========================
+-- ========================18-06-2024===========================
 
 -- distinct
 select distinct(rollno) from result;
@@ -188,7 +188,7 @@ select count(rollno), grade from result where percentage >65
 					  group by grade having count(rollno)>=3;
 					  
 
---============================================================
+-- ============================================================
 
 -- DCL - Data Control Language (Grant, Revoke)
 
@@ -199,7 +199,7 @@ GRANT ALL ON emp TO 'root'@'localhost';
 revoke select on emp from 'root'@'localhost';
 REVOKE SELECT, INSERT, DELETE, UPDATE ON emp FROM 'root'@'localhost';
 
---=====================================================================
+-- =====================================================================
 
 create table books(
 	bno int primary key auto_increment,
@@ -223,3 +223,7 @@ select * from books, author where books.bno=author.bno;
  select bname, author.author, country, price from books, author where books.bno = author.bno;
  
  
+
+
+
+

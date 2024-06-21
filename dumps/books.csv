@@ -1,0 +1,1001 @@
+book_id,title,isbn13,language_id,num_pages,publication_date,publisher_id
+1,"The World's First Love: Mary  Mother of God",8987059752,2,276,1996-09-01,1010
+2,"The Illuminati",20049130001,1,352,2004-10-04,1967
+3,"The Servant Leader",23755004321,1,128,2003-03-11,1967
+4,"What Life Was Like in the Jewel in the Crown: British India  AD 1600-1905",34406054602,1,168,1999-09-01,1978
+5,"Cliffs Notes on Aristophanes' Lysistrata  The Birds  The Clouds  The Frogs",49086007763,1,80,1983-12-29,416
+6,"Life Is a Dream and Other Spanish Classics (Eric Bentley's Dramatic Repertoire) - Volume II",73999140774,1,298,2000-04-01,96
+7,"William Goldman: Four Screenplays",73999254907,2,504,2000-05-01,95
+8,"The Season: A Candid Look at Broadway",73999768442,1,448,2004-07-01,1136
+9,"The Beatles Complete - Updated Edition",73999960822,1,303,1986-12-01,835
+10,"Working Effectively with Legacy Code",76092025986,1,464,2004-09-01,1591
+11,"The Complete Anne of Green Gables Boxed Set (Anne of Green Gables  #1-8)",76783609419,1,2088,1998-10-06,1891
+12,"Plants Bite Back! (DK Readers)",635517047547,1,48,1999-10-25,567
+13,"The Book of Awakening: Having the Life You Want by Being Present to the Life You Have",645241001173,1,438,2000-05-31,435
+14,"Risotto: 30 Simply Delicious Vegetarian Recipes from an Italian Kitchen",694055000612,1,64,2001-03-01,1739
+15,"Prétear  Vol. 3 (Prétear  #3)",702727014581,1,172,2004-10-12,35
+16,"The Mystery in the Rocky Mountains",710430023622,1,145,2001-04-01,354
+17,"The Mystery on the Mighty Mississippi",710430023639,1,142,2001-04-01,354
+18,"Programming in C",752063326664,1,576,2004-07-08,1749
+19,"PHP and MySQL Web Development (Developer's Library)",752063326725,2,1008,2004-10-01,1749
+20,"Manhunt Official Strategy Guide",752073003227,1,175,2003-11-25,313
+21,"Living La Dolce Vita: Bring the Passion  Laughter  and Serenity of Italy Into Your Daily Life",760789719271,1,272,2003-04-01,1859
+22,"Aliens: Original Sin",761568107371,1,256,2005-10-26,490
+23,"The Zen of CSS Design: Visual Enlightenment for the Web",785342303476,2,296,2005-02-17,1461
+24,"Algorithms in C  Parts 1-4: Fundamentals  Data Structures  Sorting  Searching",785342314526,5,720,1997-09-27,34
+25,"Healing Therapies for Overcoming Insomnia",798499100096,1,175,2005-02-23,479
+26,"The Prophet",9780001000391,1,127,2010-01-01,1735
+27,"Sam And The Firefly (Beginner Books)",9780001713192,1,64,1985-06-17,425
+28,"After the Funeral",9780002310192,1,251,2001-07-02,882
+29,"Sleeping Murder (Miss Marple  #13)",9780002317856,1,242,2003-08-04,569
+30,"The One Tree (The Second Chronicles of Thomas Covenant  #2)",9780006163831,5,479,1996-11-18,723
+31,"The Great And Secret Show (Book of the Art #1)",9780006176954,1,698,1990-04-26,724
+32,"Rage of Angels",9780006178736,1,512,1999-08-03,889
+33,"The Four Loves",9780006280897,2,170,2002-06-05,891
+34,"Divine Conspiracy: Rediscovering Our Hidden Life in God",9780006281146,2,384,1998-10-05,730
+35,"Agatha Christie: An Autobiography",9780006353287,1,560,2001-01-02,882
+36,"Empires of the Monsoon: A History of the Indian Ocean and Its Invaders",9780006380832,1,608,1998-01-01,889
+37,"Executive Orders (Jack Ryan  #8)",9780006479758,1,1273,1998-01-01,882
+38,"Warhost of Vastmark (Wars of Light & Shadow  #3; Arc 2 - The Ships of Merior  #2)",9780006482079,1,522,2009-07-01,2140
+39,Sacrament,9780006482642,1,594,1997-05-01,880
+40,"Witness for the Prosecution and Selected Plays",9780006490456,1,352,1995-10-07,891
+41,"The Little House",9780006496434,1,368,1998-02-01,889
+42,"Mystical Paths (Starbridge  #5)",9780006496878,1,576,1996-07-01,889
+43,"Glittering Images (Starbridge  #1)",9780006496892,1,512,1996-07-22,723
+44,"Scandalous Risks",9780006496908,1,480,2009-07-22,864
+45,"Glamorous Powers (Starbridge  #2)",9780006496922,5,512,1996-07-22,882
+46,"The Mad Ship (Liveship Traders  #2)",9780006498865,1,906,2008-02-04,880
+47,"The Reverse of the Medal (Aubrey & Maturin #11)",9780006499268,1,261,2010-04-01,882
+48,"Miss Marple Omnibus Vol. 3 (Murder at the Vicarage / Nemesis / Sleeping Murder / At Bertram's Hotel)",9780006499619,1,688,1997-07-10,869
+49,"Zelda's Cut",9780006511779,1,432,2001-02-01,889
+50,Spares,9780006512677,1,317,1998-11-02,882
+51,"The Wise Woman",9780006514640,1,640,2002-02-01,889
+52,"Girls' Night In",9780006514855,5,586,2000-07-03,882
+53,"She Came to Stay",9780006540809,5,416,1995-10-09,712
+54,"The Bonesetter's Daughter",9780006550433,1,352,2004-10-01,873
+55,"Ocean Star Express",9780006646006,1,32,2002-07-01,892
+56,"The Collection: The Outsiders / Rumble Fish / That Was Then  This Is Now",9780006751151,1,448,1995-06-01,889
+57,"A Small Pinch of Weather",9780006754893,1,239,2000-01-01,889
+58,Image-Music-Text,9780006861355,1,220,1993-09-13,725
+59,"The Princess of the Chalet School",9780006906018,1,159,2000-01-01,882
+60,"Grand Conspiracy (Wars of Light & Shadow #5; Arc 3 - Alliance of Light  #2)",9780007102228,1,614,2007-11-05,910
+61,"The One Minute Minute Sales Person",9780007104840,1,109,2000-06-01,889
+62,"Tree and Leaf: Includes Mythopoeia and The Homecoming of Beorhtnoth",9780007105045,1,150,2001-02-05,891
+63,"Dreamland (Dreamland  #1)",9780007109661,1,375,2001-07-02,891
+64,"Partners in Crime (Tommy and Tuppence #2)",9780007111503,1,347,2001-01-01,889
+65,"The Lord of the Rings: The Return of the King - Visual Companion",9780007116263,1,72,2003-11-06,882
+66,"All Families Are Psychotic",9780007117536,1,279,2002-07-01,873
+67,"Hallowe'en Party (Hercule Poirot  #39)",9780007120680,1,336,2001-09-03,864
+68,"Hercule Poirot's Christmas (Hercule Poirot  #20)",9780007120697,1,335,2001-09-01,889
+69,"Mrs. McGinty's Dead (Hercule Poirot  #30)",9780007121007,1,328,2002-07-01,889
+70,"Dead Man's Folly (Hercule Poirot  #33)",9780007121076,1,288,2008-07-01,889
+71,"The Metaphysical Club",9780007126903,1,560,2010-02-01,889
+72,"At the Mountains of Madness and Other Novels of Terror",9780007127771,1,552,2002-06-17,2140
+73,"The Lord of the Rings (The Lord of the Rings  #1-3)",9780007136582,1,1200,2002-09-16,1375
+74,"The Annotated Hobbit",9780007137275,1,411,2003-04-07,882
+75,"The History of Middle-Earth Index (The History of Middle-Earth  #13)",9780007137435,1,484,2002-08-05,882
+76,"The Lord of the Rings / The Hobbit",9780007144082,1,1600,2002-10-07,427
+77,"Complete Works of Oscar Wilde",9780007144358,1,1270,2003-08-04,889
+78,"Naked Empire (Sword of Truth  #8)",9780007145591,5,685,2004-10-01,2140
+79,Roverandom,9780007149117,1,116,2002-09-02,889
+80,"Tales from the Perilous Realm",9780007149124,1,178,2002-09-02,889
+81,"The Yiddish Policemen's Union",9780007149827,1,414,2007-05-01,882
+82,"The Solace Of Leaving Early",9780007152537,5,315,2003-11-03,712
+83,"How to Be Alone",9780007153589,1,306,2007-07-02,873
+84,"Out of the Silent Planet (The Space Trilogy  #1)",9780007157150,1,224,2005-12-05,882
+85,"The Real Trial of Oscar Wilde",9780007158058,1,384,2004-10-05,873
+86,"I Can Read With My Eyes Shut!",9780007158515,1,48,2003-05-06,893
+87,"Oh  The Places You’ll Go!",9780007158522,1,48,2003-05-06,893
+88,"If I Die in a Combat Zone",9780007162994,1,208,2003-04-07,712
+89,"Are You Afraid of the Dark?",9780007165162,1,401,2005-07-01,889
+90,"And to Think That I Saw It on Mulberry Street",9780007169924,1,64,2003-08-04,2086
+91,"Ten Apples Up On Top!",9780007169979,1,62,2003-08-04,893
+92,"The Opposite of Fate",9780007170401,1,398,2004-07-01,873
+93,"The Return of the King (The Lord of the Rings  #3)",9780007171996,1,554,2003-11-06,891
+94,"I Wish That I Had Duck Feet",9780007173136,1,64,2004-01-05,893
+95,"Horton Hatches the Egg",9780007175192,1,64,2004-10-02,884
+96,"Oh Say Can You Say?",9780007175222,1,36,2005-11-01,1170
+97,"Wild Swans: Three Daughters of China",9780007176151,1,666,2004-04-05,873
+98,"If I Don't Write It Nobody Else Will: An Autobiography",9780007177844,1,512,2006-05-01,733
+99,"Reading Lolita in Tehran",9780007178483,1,343,2004-01-02,733
+100,"The Monk Who Sold His Ferrari: A Fable about Fulfilling Your Dreams and Reaching Your Destiny (Revised)",9780007179732,1,241,2015-12-31,871
+101,Microserfs,9780007179817,1,371,2008-01-01,873
+102,"Where Rainbows End",9780007189953,1,454,2004-11-08,882
+103,"Poirot: The Complete Ariadne Oliver  Vol. 2",9780007190683,2,727,2005-06-01,889
+104,"The Known World",9780007195305,1,388,2004-10-01,873
+105,"The Mandarins",9780007203949,1,752,2005-05-03,873
+106,"Naked Lunch: The Restored Text",9780007204441,1,289,2005-05-03,889
+107,"Fear and Loathing in Las Vegas",9780007204496,1,230,2005-04-04,873
+108,"Angela's Ashes",9780007718726,1,224,1998-12-17,1827
+109,"The Love of the Last Tycoon",9780020199854,1,169,1995-04-14,1777
+110,"The Song of Rhiannon",9780020264736,1,208,1992-09-01,424
+111,"Heart Songs and Other Stories",9780020360759,1,203,1995-03-17,1777
+112,"Winter Cottage",9780020419709,1,178,1974-06-01,133
+113,Seaward,9780020421900,1,167,1987-04-30,46
+114,"The Voyage of the “Dawn Treader” (The Chronicles of Narnia  #3)",9780020442608,1,216,1970-01-01,1203
+115,"The Short Stories of Ernest Hemingway",9780020518600,1,499,1987-03-01,1779
+116,"Reason in History",9780023513206,1,95,1995-12-24,1462
+117,"Nicomachean Ethics",9780023895302,2,352,1962-01-11,1596
+118,"On Christian Doctrine",9780024021502,1,191,1958-01-11,1133
+119,"The Elements of Style",9780024181909,2,85,1991-12-12,1202
+120,"The Presocratics",9780024266408,2,352,1966-01-11,1594
+121,"The Aeneid (Verse Translation)",9780024277800,2,368,1987-01-15,1595
+122,"Philosophical Investigations",9780024288103,1,256,1973-03-11,1462
+123,"The MacMillan Bible Atlas",9780025006058,2,215,1993-03-17,2180
+124,"Spandau: The Secret Diaries",9780026995016,1,463,1976-02-05,1201
+125,"Complete Idiot's Guide to The Beatles",9780028621302,1,384,1997-12-01,70
+126,"Tyranny of the Majority: Fundamental Fairness in Representative Democracy",9780029131695,1,352,1995-02-01,740
+127,"The Origins of the Civil Rights Movements: Black Communities Organizing for Change",9780029221303,2,368,1986-09-15,740
+128,"Presidential Power and the Modern Presidents: The Politics of Leadership from Roosevelt to Reagan",9780029227961,1,384,1991-03-01,740
+129,"Rest Rabbit Rest (Sweet Pickles  #18)",9780030420566,1,32,1978-03-01,980
+130,"Where the Red Fern Grows with Connections",9780030547744,1,288,1998-09-01,981
+131,"The Silmarillion",9780048231536,1,441,1979-03-12,2077
+132,"Poppy's Return",9780060000141,1,256,2006-08-22,882
+133,"Her Highness  My Wife (Effingtons  #5)",9780060001445,1,362,2002-07-30,164
+134,"Love With the Proper Husband (Effingtons  #6)",9780060001452,1,358,2003-03-25,160
+135,"Diary of a Spider",9780060001537,2,40,2005-07-26,882
+136,"With Her Last Breath",9780060001810,2,384,2003-06-24,160
+137,"On a Wicked Dawn (Cynster  #9)",9780060002053,1,448,2002-04-30,160
+138,"The Lady Chosen (Bastion Club  #1)",9780060002060,1,464,2003-08-26,160
+139,"An Old-Fashioned Thanksgiving",9780060004507,1,32,2005-08-01,889
+140,"The Paradox of Choice: Why More Is Less",9780060005696,1,265,2005-01-18,873
+141,"How to Read Literature Like a Professor",9780060009427,1,314,2014-11-14,873
+142,"American Gods",9780060010607,1,635,2001-06-01,1513
+143,"Animal Liberation",9780060011574,1,352,2001-12-01,608
+144,"The Amazing Maurice and His Educated Rodents (Discworld  #28)",9780060012342,1,256,2001-11-06,882
+145,"Going Postal (Discworld  #33)",9780060013134,2,377,2004-09-28,864
+146,"Kids Are Worth It!: Giving Your Child the Gift of Inner Discipline",9780060014315,2,352,2002-08-20,2210
+147,After,9780060080839,1,352,2004-05-11,905
+148,"Mary Engelbreit's Mother Goose: One Hundred Best-Loved Verses",9780060081713,2,128,2005-09-20,882
+149,"The Modern Mind: An Intellectual History of the 20th Century",9780060084387,1,847,2002-07-23,873
+150,"Sharpe's Prey (Sharpe  #5)",9780060084530,1,288,2012-10-23,872
+151,"She Went All the Way",9780060085445,1,357,2002-12-03,160
+152,Island,9780060085490,1,354,2002-07-30,876
+153,"Planet of the Apes: The Fall",9780060086206,1,288,2002-06-04,895
+154,"Planet of the Apes: Colony",9780060086213,1,288,2003-03-25,895
+155,"Last Chance Saloon",9780060086244,2,528,2003-05-27,889
+156,"Barracuda 945 (Admiral Arnold Morgan  #6)",9780060086633,1,498,2004-06-29,907
+157,"A Year in the Life of William Shakespeare: 1599",9780060088743,1,333,2006-06-13,873
+158,"Lucy Sullivan Is Getting Married",9780060090371,2,640,2007-01-23,2210
+159,"Rachel's Holiday (Walsh Family  #2)",9780060090388,1,578,2007-01-23,2210
+160,"The Terminal Man",9780060092573,1,266,2002-11-05,160
+161,"Criss Cross",9780060092726,2,337,2005-08-30,803
+162,"Madam  Will You Talk?",9780060093563,1,360,2003-11-25,907
+163,"The Art of the Novel",9780060093747,1,176,2003-04-01,877
+164,"Satan's Tail (Dreamland  #7)",9780060094416,1,405,2005-07-26,907
+165,"End Game (Dreamland  #8)",9780060094423,1,432,2006-10-31,907
+166,"The Bromeliad Trilogy (Omnibus: Truckers / Diggers / Wings)",9780060094935,1,502,2003-09-30,882
+167,"Truckers (Bromeliad Trilogy  #1)",9780060094966,1,261,2004-04-01,882
+168,"Fire Lover: A True Story",9780060095277,1,352,2002-04-30,2204
+169,"Behaving Like Adults",9780060096687,1,400,2004-08-03,2210
+170,"The Great Gatsby",9780060098919,1,6,2002-10-01,340
+171,"Merry Christmas  Amelia Bedelia",9780060099459,1,64,2002-10-01,803
+172,"Back to Barbary Lane: The Tales of the City Omnibus (Tales of the City  #4-6)",9780060166496,1,720,1991-11-26,864
+173,Identity,9780060175641,1,176,1998-04-21,864
+174,"The Third Chimpanzee: The Evolution & Future of the Human Animal",9780060183073,1,407,1992-01-01,889
+175,"The Senator and the Socialite: The True Story of America's First Black Dynasty",9780060184124,1,480,2006-06-27,864
+176,"There's a Spiritual Solution to Every Problem",9780060192303,1,288,2001-08-21,864
+177,"The Illustrated Alchemist: A Fable about Following Your Dream",9780060192501,2,198,1998-11-01,889
+178,"Mars and Venus Book of Days: 365 Inspriations to Enrich Your Relationships",9780060192778,2,368,1998-10-21,864
+179,"Body For Life: 12 Weeks to Mental and Physical Strength",9780060193393,2,201,1999-06-10,890
+180,"Daughter of Fortune",9780060194918,1,399,1999-10-06,864
+181,Stanley,9780060225353,1,64,1992-12-31,889
+182,"Betsy-Tacy and Tib (Betsy-Tacy  #2)",9780060244163,1,128,1994-11-09,882
+183,"Today I Feel Silly  Other Moods That Make My Day",9780060245603,2,40,2007-07-31,882
+184,"Mrs. Piggle-Wiggle Treasury (Mrs. Piggle Wiggle  #1-2  #4)",9780060248123,1,392,1995-06-15,882
+185,"Where the Wild Things Are",9780060254926,1,40,2012-12-26,882
+186,"We Were Not Like Other People",9780060255084,1,216,1989-01-01,889
+187,"The Missing Piece Meets the Big O",9780060256579,1,104,2006-01-24,882
+188,"The Missing Piece (The Missing Piece  #1)",9780060256715,1,112,2006-01-24,882
+189,"Lafcadio  the Lion Who Shot Back",9780060256753,1,112,2013-09-24,882
+190,"Sun  Moon  Star",9780060263195,1,62,1980-01-01,889
+191,"The Secret Garden Cookbook: Recipes Inspired by Frances Hodgson Burnett's The Secret Garden",9780060277406,1,128,1999-03-19,695
+192,"Laura's Album: A Remembrance Scrapbook of Laura Ingalls Wilder",9780060278427,1,80,1998-10-13,882
+193,"The Dirt: Confessions of the World's Most Notorious Rock Band",9780060392888,1,430,2001-05-22,543
+194,"The Moonspinners",9780060502959,1,400,2003-11-25,907
+195,"Small Wonder",9780060504083,1,264,2003-04-15,873
+196,"Worlds Enough & Time: Five Tales of Speculative Fiction",9780060506049,1,272,2002-11-26,880
+197,"We Were Soldiers Once ... and Young (Ia Drang - the Battle That Changed the War in Vietnam)",9780060506988,1,535,2002-02-05,907
+198,"Household Saints",9780060507275,2,272,2003-04-01,873
+199,"The Cheese Monkeys",9780060507404,2,288,2002-09-03,873
+200,"The Last Hero (Discworld #27; Rincewind #7)",9780060507770,1,176,2002-08-20,880
+201,Travels,9780060509057,1,400,2002-11-05,911
+202,"Caesar (Masters of Rome  #5)",9780060510855,1,928,2003-01-28,160
+203,"The Forever War (The Forever War  #1)",9780060510862,1,278,2003-09-02,2140
+204,"Amelia Bedelia Goes Camping",9780060511067,1,64,2003-04-15,803
+205,"The Secret Sister",9780060511104,1,416,2005-10-25,160
+206,"Amelia Bedelia Helps Out",9780060511111,1,64,2005-01-18,803
+207,Whirlpool,9780060511135,1,448,2006-10-31,160
+208,"Teach Us  Amelia Bedelia",9780060511142,1,64,2004-06-29,803
+209,"The Beauty Myth",9780060512187,1,368,2002-09-24,873
+210,Cryptonomicon,9780060512804,1,1139,2002-11-01,160
+211,"A Light in the Attic",9780060513061,1,176,2002-10-07,885
+212,"Fragile Things: Short Fictions and Wonders",9780060515225,1,360,2006-09-26,2204
+213,"What Went Wrong? The Clash Between Islam & Modernity in the Middle East",9780060516055,1,186,2003-01-07,873
+214,"The Lady in Question (Effingtons  #7)",9780060517618,1,384,2003-11-25,160
+215,"The Hand of Dinotopia",9780060518516,1,416,2002-12-01,161
+216,"Letters from the Earth: Uncensored Writings",9780060518653,1,321,2004-02-17,877
+217,"Savannah Blues (Weezie and Bebe Mysteries  #1)",9780060519131,2,404,2012-07-10,872
+218,"Touching Darkness (Midnighters  #2)",9780060519568,1,439,2006-03-01,878
+219,"Blue Noon (Midnighters  #3)",9780060519599,1,384,2007-02-06,645
+220,"Tête-à-Tête: Simone de Beauvoir and Jean-Paul Sartre",9780060520595,1,432,2005-10-04,864
+221,"The Whipping Boy",9780060521226,1,90,2003-04-15,803
+222,"The Innovator's Dilemma: The Revolutionary Book that Will Change the Way You Do Business",9780060521998,1,286,2003-01-07,872
+223,"Ohio Class (Silent Service #5)",9780060524395,1,416,2006-07-25,160
+224,"A Nose for Murder (Jack and Jamie #1)",9780060524937,1,267,2003-03-01,161
+225,"Murder Unleashed (Jack and Jamie #2)",9780060524944,1,304,2004-01-01,161
+226,"To Collar a Killer (Jack and Jamie #3)",9780060524951,1,304,2004-11-30,160
+227,Happiness,9780060525101,1,320,2003-06-03,900
+228,"Size 12 Is Not Fat (Heather Wells  #1)",9780060525118,1,345,2005-12-27,2210
+229,"Size 14 Is Not Fat Either (Heather Wells  #2)",9780060525125,1,344,2006-11-28,2210
+230,"Warrior of the Light",9780060527983,2,142,2004-03-30,898
+231,"The Devil and Miss Prym (On the Seventh Day  #3)",9780060527990,1,205,2006-07-03,898
+232,"The Wapshot Chronicle",9780060528874,1,352,2003-06-03,877
+233,"The Big Bing: Black Holes of Time Management  Gaseous Executive Bodies  Exploding Careers  and Other Theories on the Origins of the Business Universe",9780060529574,2,368,2006-01-03,868
+234,"Sharpe's Fury (Sharpe  #11)",9780060530488,1,352,2006-08-22,864
+235,"The Lion  the Witch and the Wardrobe",9780060530839,2,112,2003-11-04,882
+236,"Kisscut (Grant County  #2)",9780060534042,1,436,2003-09-30,907
+237,"A Faint Cold Fear (Grant County  #3)",9780060534059,1,422,2004-07-27,864
+238,"City of the Beasts (Eagle and Jaguar  #1)",9780060535032,1,408,2004-04-27,1664
+239,"Walt Whitman: A Life",9780060535117,1,464,2003-07-08,877
+240,"Brave New World and Brave New World Revisited",9780060535261,1,340,2004-06-01,882
+241,"How to Make Love Like a Porn Star: A Cautionary Tale",9780060539092,1,592,2004-08-17,1038
+242,"Rough Crossings: Britain  the Slaves and the American Revolution",9780060539160,1,496,2006-04-25,607
+243,"The Outsider",9780060539252,2,672,2003-07-29,911
+244,"Burning Chrome (Sprawl  #0)",9780060539825,1,224,2003-07-29,880
+245,"Dead Wrong (Joanna Brady  #12)",9780060540906,1,368,2006-07-25,2204
+246,"1421: The Year China Discovered America",9780060540944,1,650,2004-01-01,875
+247,"13 Little Blue Envelopes (Little Blue Envelope  #1)",9780060541439,1,322,2010-12-21,889
+248,"The Andromeda Strain (Andromeda  #1)",9780060541811,1,327,2003-10-28,161
+249,Congo,9780060541835,1,442,2003-10-28,161
+250,"Only You Can Save Mankind (Johnny Maxwell  #1)",9780060541873,1,210,2006-07-25,909
+251,"Amelia Bedelia 50th Anniversary Library: Amelia Bedelia  Amelia Bedelia and the Surprise Shower  and Play Ball  Amelia Bedelia",9780060542382,1,96,2012-12-26,803
+252,"Lizabeth's Story (The Girls of Lighthouse Lane #3)",9780060543495,1,192,2005-10-18,882
+253,"Amanda's Story (The Girls of Lighthouse Lane #4)",9780060543525,1,208,2006-03-14,882
+254,"Bradbury Stories: 100 of His Most Celebrated Tales",9780060544881,1,912,2005-04-05,2210
+255,"With No One as Witness (Inspector Lynley  #13)",9780060545611,1,784,2006-02-28,864
+256,"What Came Before He Shot Her (Inspector Lynley  #14)",9780060545628,1,560,2006-10-17,864
+257,"My Invented Country: A Nostalgic Journey Through Chile",9780060545642,2,199,2003-05-27,864
+258,"The Bradbury Chronicles: The Life of Ray Bradbury",9780060545840,2,384,2006-02-21,873
+259,"Three Rotten Eggs (The Hamlet Chronicles  #5)",9780060546571,1,240,2005-01-18,882
+260,"The Wicked Day (Arthurian Saga  #4)",9780060548285,1,417,2003-05-01,645
+261,"The Game: Penetrating the Secret Society of Pickup Artists",9780060554736,2,464,2005-09-06,1038
+262,"The Lion  the Witch and the Wardrobe (Chronicles of Narnia  #1)",9780060556501,1,48,2004-09-21,882
+263,"Gold: The Final Science Fiction Collection",9780060556525,1,416,2003-10-21,880
+264,"The Red Queen: Sex and the Evolution of Human Nature",9780060556570,1,405,2003-04-29,874
+265,"All Aunt Hagar's Children: Stories",9780060557560,2,399,2006-08-29,82
+266,"Neverwhere (London Below  #1)",9780060557812,1,370,2003-09-02,2210
+267,"Gentlemen and Players",9780060559144,1,422,2006-01-03,2204
+268,"The Prince Kidnaps a Bride (Lost Princesses  #3)",9780060561185,1,384,2006-11-28,160
+269,"Nimitz Class (Admiral Arnold Morgan  #1)",9780060564421,1,495,2004-02-03,872
+270,"The Kindness of Strangers",9780060564780,2,400,2007-01-02,2210
+271,"These Happy Golden Years (Little House  #8)",9780060565084,1,7,2006-03-28,896
+272,"The First Four Years (Little House  #9)",9780060565091,1,3,2006-06-13,896
+273,"Built to Last: Successful Habits of Visionary Companies",9780060566104,1,368,2004-11-02,868
+274,"Fluke: Or  I Know Why the Winged Whale Sings",9780060566685,1,321,2004-06-15,864
+275,"Lord of Light",9780060567231,1,296,2010-03-30,880
+276,"The Perennial Philosophy",9780060570583,1,336,2004-04-13,877
+277,"A Crack in the Edge of the World",9780060572006,1,419,2006-10-10,873
+278,"Truth and Beauty",9780060572150,1,257,2005-04-05,873
+279,"Where the Sidewalk Ends: Poems and Drawings",9780060572341,1,192,2014-02-18,882
+280,"Dead Witch Walking (The Hollows  #1)",9780060572969,2,416,2004-07-01,907
+281,"The Good  the Bad  and the Undead (The Hollows  #2)",9780060572976,1,453,2005-01-25,907
+282,"Every Which Way But Dead (The Hollows  #3)",9780060572990,1,501,2005-06-28,907
+283,"Men Are from Mars  Women Are from Venus",9780060574215,1,368,2012-04-03,872
+284,"Sabriel (Abhorsen  #1)",9780060575816,2,311,2004-08-17,645
+285,"Slouching Toward Nirvana",9780060577049,1,288,2006-01-03,606
+286,"Cat Cross Their Graves (Joe Grey  #10)",9780060578114,1,385,2005-09-27,160
+287,"Cat Breaking Free (Joe Grey  #11)",9780060578121,1,375,2006-10-01,160
+288,Slider,9780060580339,2,416,2004-04-27,1038
+289,"Cookies: Bite-Size Life Lessons",9780060580810,1,40,2006-05-02,882
+290,"I Dreamed I Married Perry Mason (A Cece Caruso Mystery  #1)",9780060581060,1,280,2005-03-29,160
+291,"The Black Dahlia Files: The Mob  the Mogul  and the Murder That Transfixed Los Angeles",9780060582500,2,448,2006-09-05,872
+292,Matilda,9780060582548,1,5,2004-01-20,696
+293,"Like A Charm",9780060583316,2,384,2015-05-26,2210
+294,"Metro Girl (Alex Barnaby  #1)",9780060584023,1,374,2005-09-27,907
+295,"Motor Mouth (Alex Barnaby #2)",9780060584030,1,312,2006-10-03,882
+296,"Her Master and Commander (Just Ask Reeves  #1)",9780060584085,1,372,2006-02-28,160
+297,"Mystic River",9780060584757,1,416,2001-02-01,2210
+298,"The Way the Crow Flies",9780060586379,2,848,2004-08-31,873
+299,"Great Short Works of Herman Melville",9780060586546,1,512,2004-03-02,877
+300,"Measle and the Dragodon",9780060586904,1,352,2006-09-01,909
+301,"The Day I Swapped My Dad for Two Goldfish",9780060587031,2,64,2006-09-26,882
+302,"Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Phaedrus  #1)",9780060589462,1,540,2006-04-25,907
+303,"Ulysses S. Grant: The Unlikely Hero",9780060590154,1,176,2004-09-28,642
+304,"A Dirty Job (Grim Reaper  #1)",9780060590277,2,387,2006-03-21,2204
+305,"You Suck (A Love Story  #2)",9780060590291,1,328,2007-01-16,2204
+306,"El reino del dragón de oro",9780060591717,4,432,2004-09-07,886
+307,"Quicksilver (The Baroque Cycle  #1)",9780060593087,1,927,2004-09-21,888
+308,"When We Meet Again (Effingtons  #10)",9780060593193,1,384,2005-05-24,160
+309,"Let It Be Love (Effingtons  #11)",9780060593209,1,384,2005-10-25,160
+310,"Every Book Its Reader: The Power of the Printed Word to Stir the World",9780060593247,1,400,2006-12-12,873
+311,"Flirting With Danger (Samantha Jellicoe  #1)",9780060593636,1,384,2005-03-01,160
+312,"Goat Girls (Weetzie Bat  #2-3)",9780060594343,2,240,2004-07-06,905
+313,"Beautiful Boys (Weetzie Bat  #4-5)",9780060594350,2,304,2004-07-06,905
+314,"Lost Horizon",9780060594527,1,241,2004-06-15,873
+315,"The Doors of Perception & Heaven and Hell",9780060595180,1,187,2004-05-04,877
+316,"Since You're Leaving Anyway  Take Out the Trash (Domestic Equalizers #1)",9780060595364,1,384,2004-08-31,160
+317,"Abarat: Days of Magic  Nights of War",9780060596385,1,569,2006-09-26,882
+318,"Outposts: Journeys to the Surviving Relics of the British Empire",9780060598617,1,400,2004-06-15,873
+319,Thanksgiving,9780060598808,1,228,2006-10-31,907
+320,Manhunt,9780060598822,1,219,2005-11-29,907
+321,"Love Overboard",9780060598846,1,244,2005-02-01,907
+322,"Back to the Bedroom (Elsie Hawkins #1)",9780060598853,1,234,2014-02-25,864
+323,"Smitten (Elsie Hawkins #2)",9780060598877,1,234,2006-07-25,907
+324,"The Rocky Road to Romance (Elsie Hawkins #4)",9780060598891,1,249,2011-11-29,864
+325,"Thomas Jefferson: Author of America",9780060598969,1,188,2005-05-31,143
+326,"Muhammad: A Prophet for Our Time",9780060598976,1,256,2006-10-17,642
+327,"Meeting Jesus Again for the First Time: The Historical Jesus and the Heart of Contemporary Faith",9780060609177,2,160,2015-04-07,898
+328,"Reading the Bible Again for the First Time: Taking the Bible Seriously but Not Literally",9780060609191,2,321,2015-04-07,898
+329,"Shadow of the Almighty: The Life and Testament of Jim Elliot",9780060622138,1,272,2009-09-29,898
+330,"The Dance of the Dissident Daughter",9780060645892,1,256,2002-08-20,898
+331,"Readings for Meditation and Reflection",9780060652852,1,176,1996-01-05,898
+332,"The Screwtape Letters",9780060652890,1,224,2001-03-06,882
+333,"Mere Christianity",9780060652920,1,227,2015-04-21,898
+334,"Embracing the Love of God: The Path and Promise of Christian Life",9780060667412,1,192,1995-06-28,898
+335,"The Rise of Christianity",9780060677015,1,272,1997-05-09,898
+336,"The Falls",9780060722296,1,512,2005-08-02,873
+337,"Mutant Message Down Under",9780060723514,1,187,2004-05-25,873
+338,"Crooked Little Vein",9780060723934,2,288,2007-07-24,2204
+339,"The Collected Poetry  1968-1998",9780060724290,1,512,2007-01-23,2204
+340,"Ready or Not (All-American Girl  #2)",9780060724504,1,238,2005-08-01,889
+341,"A Little House Traveler: Writings from Laura Ingalls Wilder's Journeys Across America",9780060724917,1,352,2006-02-07,882
+342,"Darkest Hour (The Mediator  #4)",9780060725143,1,316,2004-12-28,882
+343,"Great Short Works of Fyodor Dostoevsky",9780060726461,1,768,2004-07-06,877
+344,Cash,9780060727536,1,310,2003-10-07,898
+345,"The Collected Letters of C.S. Lewis  Volume 1: Family Letters  1905-1931",9780060727635,1,1072,2004-06-29,898
+346,"Touching the Void: The True Story of One Man's Miraculous Survival",9780060730550,1,218,2004-02-03,873
+347,"Buddhism: A Concise Introduction",9780060730673,1,256,2004-12-14,898
+348,"The Burglar Who Liked to Quote Kipling (Bernie Rhodenbarr  #3)",9780060731250,1,304,2005-03-01,907
+349,"Anybody Out There? (Walsh Family  #4)",9780060731304,1,456,2006-05-09,2204
+350,"The Burglar Who Painted Like Mondrian (Bernie Rhodenbarr  #5)",9780060731434,1,311,2005-07-26,907
+351,"The Burglar Who Traded Ted Williams (Bernie Rhodenbarr  #6)",9780060731441,1,384,2005-10-25,907
+352,"Dogged Pursuit (Jack and Jamie #5)",9780060732295,1,320,2006-06-27,160
+353,"Ariel: The Restored Edition",9780060732608,1,256,2018-03-06,877
+354,"The Neil Gaiman Audio Collection",9780060732981,1,1,2004-08-31,896
+355,"The Zebra Wall",9780060733032,1,147,2005-02-15,803
+356,"The Confusion (The Baroque Cycle  #2)",9780060733353,2,815,2005-06-14,2210
+357,"Bridge to Terabithia",9780060734015,2,191,2008-07-01,905
+358,"After the Wreck  I Picked Myself Up  Spread My Wings  and Flew Away",9780060735258,1,292,2006-09-01,889
+359,"Bloodsucking Fiends (A Love Story  #1)",9780060735418,1,300,2004-06-01,882
+360,"Practical Demonkeeping (Pine Cove  #1)",9780060735425,1,256,2004-05-25,1511
+361,"Island of the Sequined Love Nun",9780060735449,1,325,2004-05-25,873
+362,"The Lust Lizard of Melancholy Cove (Pine Cove  #2)",9780060735456,2,304,2004-05-25,2210
+363,"Weetzie Bat (Weetzie Bat  #1)",9780060736255,1,128,2004-07-06,905
+364,"Love Overboard",9780060736958,1,5,2005-01-25,881
+365,"Behind the Curtain (Echo Falls  #2)",9780060737047,2,352,2006-04-25,882
+366,"The Rocky Road to Romance (Elsie Hawkins  #4)",9780060738259,1,5,2004-08-31,881
+367,"Catherine  Called Birdy",9780060739423,1,224,2004-06-01,909
+368,"The Last Innocent Man",9780060739683,1,352,2005-01-25,907
+369,"One Hundred Years of Solitude",9780060740450,1,458,2004-01-20,873
+370,"The Dance of Anger",9780060741044,1,239,2005-05-03,2207
+371,"Alas  Babylon",9780060741877,1,323,2005-07-05,877
+372,"Lilly's Big Day",9780060742362,2,40,2006-03-28,803
+373,"The Pursuit of Happyness",9780060744878,1,320,2006-10-24,82
+374,"Wicked: The Life and Times of the Wicked Witch of the West",9780060745905,2,409,2004-03-02,2210
+375,"Crimes Against Nature: How George W. Bush and His Corporate Pals Are Plundering the Country and Hijacking Our Democracy",9780060746872,1,256,2004-08-03,864
+376,"Son of a Witch (The Wicked Years  #2)",9780060747220,1,352,2006-09-26,2210
+377,"Conrad's Fate (Chrestomanci  #5)",9780060747459,1,400,2006-05-09,803
+378,"This Rough Magic",9780060747473,1,373,2004-11-30,907
+379,"Airs Above the Ground",9780060747480,1,384,2004-11-30,907
+380,"When Nietzsche Wept",9780060748128,1,310,2005-01-04,873
+381,"The Known World",9780060749910,1,576,2004-06-15,864
+382,"One Hundred Years of Solitude",9780060750763,1,560,2004-02-20,864
+383,"Battle Cry",9780060751869,1,694,2005-06-28,160
+384,Beauty,9780060753108,1,325,2005-07-26,882
+385,"Mating in Captivity: Reconciling the Erotic and the Domestic",9780060753634,1,272,2006-09-05,864
+386,"Forgotten New York: Views of a Lost Metropolis",9780060754006,1,384,2006-09-26,429
+387,"Selected Writings",9780060754662,1,160,2006-05-30,883
+388,"Letters of E.B. White",9780060757083,1,736,2006-11-28,864
+389,"La telaraña de Carlota",9780060757403,4,224,2005-10-04,886
+390,"Forest Mage (Soldier Son  #2)",9780060757632,1,718,2006-08-29,880
+391,"The Dead Beat: Lost Souls  Lucky Stiffs  and the Perverse Pleasures of Obituaries",9780060758769,2,272,2007-01-30,873
+392,"The Last Kingdom (The Saxon Stories  #1)",9780060759254,1,6,2005-01-25,881
+393,"Charms for the Easy Life",9780060760250,1,272,2005-07-01,873
+394,"A Couple of April Fools (The Hamlet Chronicles #6)",9780060760823,1,240,2005-03-01,882
+395,"Michael Tolliver Lives (Tales of the City  #7)",9780060761356,2,277,2007-06-12,864
+396,"What Christians Believe",9780060761530,2,98,2005-02-22,898
+397,"The Known World",9780060762735,2,14,2004-06-15,881
+398,"How to Buy  Sell & Profit on eBay: Kick-Start Your Home-Based Business in Just Thirty Days",9780060762872,1,336,2005-05-03,2210
+399,"Psyche in a Dress",9780060763725,1,116,2006-09-01,1051
+400,"You: The Owner's Manual: An Insider's Guide to the Body That Will Make You Healthier and Younger",9780060765316,2,417,2005-01-01,428
+401,"The Catswold Portal",9780060765408,1,432,2005-01-25,880
+402,"The Chronicles of Narnia (The Chronicles of Narnia  #1-7)",9780060765453,1,766,2005-10-15,895
+403,"The Lion  the Witch and the Wardrobe (Chronicles of Narnia #2)",9780060765484,1,189,2005-10-25,895
+404,"The Nightmare Room: The Nightmare Begins! (The Nightmare Room  #1-3)",9780060766740,2,432,2005-05-24,882
+405,"A Quick Bite (Argeneau #1)",9780060773755,1,360,2020-03-31,160
+406,"A Bite to Remember (Argeneau #5)",9780060774073,1,362,2006-06-27,160
+407,"Bite Me If You Can (Argeneau #6)",9780060774127,1,384,2007-01-30,160
+408,"Goodnight Moon",9780060775858,1,32,2007-01-23,882
+409,"Brave New World / Brave New World Revisited",9780060776091,1,340,2005-07-05,877
+410,"Their Eyes Were Watching God",9780060776534,2,7,2004-11-23,340
+411,"Reading Like a Writer: A Guide for People Who Love Books and for Those Who Want to Write Them",9780060777050,1,297,2007-04-10,873
+412,"The Cat's Pajamas",9780060777333,1,234,2005-07-26,2210
+413,"Queen of the Scene",9780060778569,2,32,2006-09-26,882
+414,"How to be Idle",9780060779689,2,289,2005-05-10,882
+415,"Time For Kids: Butterflies!",9780060782139,1,32,2006-02-21,882
+416,"The Poisonwood Bible",9780060786502,1,546,2005-07-05,877
+417,"A Long Shadow (Inspector Ian Rutledge  #8)",9780060786717,1,352,2006-01-03,2204
+418,"A False Mirror (Inspector Ian Rutledge  #9)",9780060786731,1,384,2007-01-09,2204
+419,sex.lies.murder.fame.,9780060786809,1,368,2006-01-10,82
+420,"Essays and Stories by Marian Keyes: Bags  Trips  Make-up Tips  Charity  Glory  and the Darker Side of the Story",9780060787035,1,368,2005-09-06,2210
+421,"Sleep  Pale Sister",9780060787110,2,396,2005-08-30,2210
+422,Zorro,9780060787219,1,677,2005-05-03,897
+423,"A Fistful of Charms (The Hollows  #4)",9780060788193,1,510,2006-06-27,907
+424,"For a Few Demons More (The Hollows  #5)",9780060788384,1,456,2007-03-20,880
+425,Dubliners,9780060789565,1,8,2005-05-10,340
+426,"The Mysteries of Pittsburgh",9780060790592,1,320,2005-07-05,873
+427,"The Patricia Cornwell CD Audio Treasury: All That Remains / Cruel & Unusual (Kay Scarpetta  #3  #4)",9780060791216,1,0,2005-07-26,881
+428,"Everything Is Illuminated",9780060792176,1,276,2005-08-23,873
+429,"Flight of the Nighthawks (The Darkwar Saga  #1)",9780060792787,2,368,2006-04-11,880
+430,"Into a Dark Realm (The Darkwar Saga  #2)",9780060792800,1,319,2007-03-27,645
+431,"The 3-Hour Diet: On the Go",9780060793197,2,192,2005-10-18,2210
+432,"Lost in the City",9780060795283,1,268,2004-11-30,83
+433,"Focus: The Future of Your Company Depends on It",9780060799908,1,320,2005-09-27,868
+434,"The Best American Crime Writing 2006",9780060815523,1,352,2006-09-05,606
+435,"El bosque de los pigmeos",9780060816193,4,304,2005-09-06,886
+436,"Missing Mom",9780060816223,1,464,2006-08-22,606
+437,"The Collected Letters of C.S. Lewis  Volume 3: Narnia  Cambridge  and Joy  1950 - 1963",9780060819224,1,1840,2007-01-09,898
+438,"Touch Not the Cat",9780060823726,1,372,2005-11-29,907
+439,"Oracle Bones: A Journey Between China's Past and Present",9780060826581,1,512,2006-04-25,864
+440,"Great Short Works",9780060830939,2,576,1970-11-28,873
+441,"The Zahir",9780060832810,1,336,2006-07-03,898
+442,"Odalisque (The Baroque Cycle  Vol. 1  Book 3)",9780060833183,2,464,2006-03-28,907
+443,"Warrior Angel",9780060833251,2,354,2007-02-27,160
+444,"Black Boy",9780060834005,2,432,2005-11-29,864
+445,"The Sheltering Sky",9780060834821,1,313,2005-09-20,608
+446,"The King of Attolia (The Queen's Thief  #3)",9780060835774,1,387,2006-01-24,803
+447,"Rat Bastards: The Life and Times of South Boston's Most Honorable Irish Mobster",9780060837167,1,304,2006-03-14,2204
+448,"The Last Days of Henry VIII",9780060837334,1,368,2005-09-20,2204
+449,"The Thorn Birds",9780060837556,1,673,2005-09-06,161
+450,"Native Son",9780060837563,1,504,2005-08-02,877
+451,"Fast Food Nation: The Dark Side of the All-American Meal",9780060838584,1,399,2005-07-05,873
+452,"Krakatoa: The Day the World Exploded: August 27  1883",9780060838591,1,464,2005-07-05,873
+453,"Walking the Bible: A Journey by Land Through the Five Books of Moses",9780060838638,1,451,2005-08-02,2210
+454,"A People's History of the United States",9780060838652,1,729,2005-08-02,873
+455,"Bel Canto",9780060838720,1,352,2005-08-02,873
+456,"Ahab's Wife  or The Star-Gazer",9780060838744,1,704,2005-08-02,2210
+457,"Hit Parade (John Keller  #3)",9780060840884,1,295,2006-07-03,2204
+458,"The Queen of Attolia (The Queen's Thief  #2)",9780060841829,1,362,2006-01-24,645
+459,"The Curtain: An Essay in Seven Parts",9780060841867,1,176,2007-01-30,864
+460,"Instead of Three Wishes",9780060842314,1,160,2006-08-08,803
+461,"Red Herrings and White Elephants: The Origins of the Phrases We Use Every Day",9780060843373,2,272,2005-11-01,864
+462,"A Hard Day's Write: The Stories Behind Every Beatles Song",9780060844097,1,224,2005-10-18,1038
+463,"The Lion  the Witch and the Wardrobe (Narnia)",9780060845247,2,189,2005-10-04,889
+464,"The Mambo Kings Play Songs of Love",9780060845308,2,448,2005-07-05,873
+465,"Ya Sé Que Te Quiero",9780060845988,4,40,2006-04-11,1664
+466,"Sex with the Queen: 900 Years of Vile Kings  Virile Lovers  and Passionate Politics",9780060846732,2,336,2006-04-11,2204
+467,"The Bush Agenda: Invading the World  One Economy at a Time",9780060846879,1,400,2006-04-25,2204
+468,"Valentine Princess (The Princess Diaries  #7.75)",9780060847180,1,96,2006-12-12,905
+469,"Brave New World",9780060850524,1,259,2006-10-17,882
+470,"Back to Wando Passo",9780060851897,2,448,2006-05-23,2204
+471,"Queen of Babble (Queen of Babble  #1)",9780060851989,1,309,2006-05-23,2204
+472,"Animal  Vegetable  Miracle: A Year of Food Life",9780060852559,1,370,2007-05-01,889
+473,"Good Omens: The Nice and Accurate Prophecies of Agnes Nutter  Witch",9780060853976,1,384,2007-08-07,2205
+474,"Dates from Hell",9780060854096,1,416,2006-03-28,160
+475,"Continental Drift",9780060854942,1,408,2007-03-13,877
+476,"Equal Rites (Discworld  #3; Witches  #1)",9780060855901,1,228,2005-09-13,873
+477,"The Color of Magic (Discworld  #1; Rincewind  #1)",9780060855925,1,228,2005-09-13,864
+478,"First They Killed My Father: A Daughter of Cambodia Remembers",9780060856267,1,238,2006-04-04,873
+479,"The Homecoming",9780060859626,2,56,2006-08-30,426
+480,"The Burglar Who Thought He Was Bogart (Bernie Rhodenbarr  #7)",9780060872793,2,400,2006-10-31,907
+481,Next,9780060872984,1,431,2006-11-28,864
+482,"Missing You (1-800-Where-R-You  #5)",9780060874308,1,268,2006-12-26,906
+483,"Lullabies for Little Criminals",9780060875077,1,330,2006-10-17,873
+484,"Poor People",9780060878825,1,434,2007-02-27,606
+485,"How to Be Popular",9780060880125,1,288,2006-08-31,906
+486,"Blue Angel",9780060882037,1,314,2006-02-28,873
+487,"The Annotated Charlotte's Web",9780060882600,1,320,2006-10-31,882
+488,"Charlotte's Web",9780060882617,2,192,2006-10-31,882
+489,"A Little Bit Wicked (Last Man Standing  #1)",9780060882624,1,359,2006-12-26,160
+490,"Charlotte's Web: Wilbur Finds a Friend",9780060882815,1,32,2006-10-31,882
+491,"The Autumn of the Patriarch",9780060882860,1,255,2006-03-14,877
+492,"How to Make Money Like a Porn Star",9780060884055,2,128,2006-09-26,1038
+493,"Little House in the Big Woods (Little House  #1)",9780060885373,1,198,2007-01-01,909
+494,"Farmer Boy (Little House  #2)",9780060885380,1,357,2007-01-01,909
+495,"Little House on the Prairie (Little House  #3)",9780060885397,1,309,2007-01-01,909
+496,"The Long Winter (Little House  #6)",9780060885427,1,422,2007-01-01,909
+497,"Little Town on the Prairie  (Little House  #7)",9780060885434,1,374,2007-01-01,909
+498,"The First Four Years  (Little House  #9)",9780060885458,1,126,2007-01-02,909
+499,"Laura Ingalls Wilder: A Biography",9780060885526,1,256,2007-01-02,882
+500,"Dumpy's Valentine",9780060885731,1,24,2006-12-12,1066
+501,"The Alchemist",9780060887964,1,192,2006-05-02,898
+502,"To Kill a Mockingbird",9780060888695,1,11,2006-08-22,340
+503,"Wintersmith (Discworld  #35; Tiffany Aching  #3)",9780060890315,1,325,2006-10-01,906
+504,"Mariel Hemingway's Healthy Living from the Inside Out: Every Woman's Guide to Real Beauty  Renewed Energy  and a Radiant Life",9780060890391,1,288,2006-12-26,898
+505,"Eaters of the Dead",9780060891565,1,304,2006-08-29,160
+506,"Genome: the Autobiography of a Species in 23 Chapters",9780060894085,1,344,2006-05-30,873
+507,"Brave New World Revisited",9780060898526,1,123,2006-09-05,877
+508,"The Zero",9780060898656,1,336,2006-08-29,864
+509,"Welcome to the Monkey House",9780060898717,2,9,2006-05-23,340
+510,"Pacto Con un Demonio",9780060898724,4,512,2008-07-01,907
+511,"Kitchen Confidential: Adventures in the Culinary Underbelly",9780060899226,1,312,2007-01-09,609
+512,"The Dream and the Underworld",9780060906825,2,256,1979-07-25,2210
+513,"The Crying of Lot 49",9780060913076,1,152,2006-10-17,873
+514,"An American Childhood",9780060915186,1,255,2013-10-15,873
+515,"Holy the Firm",9780060915438,1,76,1998-12-30,873
+516,"Think on These Things",9780060916091,1,258,1989-10-11,898
+517,"The Dance of Intimacy: A Woman's Guide to Courageous Acts of Change in Key Relationships",9780060916466,1,255,1989-01-01,2210
+518,"Tell My Horse: Voodoo and Life in Haiti and Jamaica",9780060916497,1,311,1990-02-28,882
+519,"Jonah's Gourd Vine",9780060916510,1,229,1990-01-22,82
+520,"The Lost Continent: Travels in Small Town America",9780060920081,1,299,1990-08-28,2210
+521,"Three by Annie Dillard: Pilgrim at Tinker Creek  An American Childhood  The Writing Life",9780060920647,2,617,1990-11-21,873
+522,"Declarations of Independence: Cross-Examining American Ideology",9780060921088,1,341,1991-10-23,873
+523,"The Complete Stories",9780060921712,1,336,1996-01-05,82
+524,"Legends  Lies  Cherished Myths of World History",9780060922559,1,320,2011-11-29,2210
+525,"Edgar A. Poe: Mournful and Never-ending Remembrance",9780060923310,2,592,2008-12-23,873
+526,"The Infinite Plan",9780060924980,1,384,1994-03-04,873
+527,"Soul Mates: Honouring the Mysteries of Love and Relationship",9780060925758,1,288,2013-12-13,873
+528,"The Wit &  Wisdom of Winston Churchill",9780060925772,1,256,2007-12-26,873
+529,"Cathedral  Forge  and Waterwheel: Technology and Invention in the Middle Ages",9780060925819,1,368,1995-01-01,873
+530,"The Throne of the Third Heaven of the Nations Millennium General Assembly: Poems Collected and New",9780060926960,1,225,1996-01-01,873
+531,"Success Stories",9780060927196,2,192,1996-04-26,873
+532,"Testaments Betrayed: An Essay in Nine Parts",9780060927516,1,288,1996-08-02,873
+533,"Mr. Ives' Christmas",9780060927547,1,256,2003-12-23,873
+534,Slowness,9780060928414,1,156,1997-04-11,873
+535,"A Simple Habana Melody",9780060928698,1,368,2003-06-17,873
+536,"Full Woman  Fleshly Apple  Hot Moon: Selected Poems",9780060928773,1,288,1998-02-11,873
+537,"As Nature Made Him: The Boy Who Was Raised as a Girl",9780060929596,1,320,2001-02-20,873
+538,"The Active Side of Infinity",9780060929602,1,288,1999-12-22,873
+539,"Brave New World",9780060929879,1,288,1998-09-01,901
+540,"You Can't Go Home Again",9780060930059,1,711,1998-08-05,873
+541,"The Fifth Mountain",9780060930134,2,256,2000-04-26,898
+542,"Aphrodite: A Memoir of the Senses",9780060930172,1,320,1999-04-07,873
+543,V.,9780060930219,1,547,2005-07-05,877
+544,Identity,9780060930318,1,168,1999-04-21,873
+545,"The Poisonwood Bible",9780060930530,1,546,1999-10-01,873
+546,Cloudsplitter,9780060930868,1,758,1999-01-27,873
+547,"Plato  Not Prozac!: Applying Eternal Wisdom to Everyday Problems",9780060931360,1,320,2000-08-01,873
+548,"The Golden Notebook",9780060931407,1,640,1999-02-03,877
+549,"The Crying of Lot 49",9780060931674,1,152,1999-04-01,873
+550,"The Map That Changed the World: William Smith and the Birth of Modern Geology",9780060931803,1,329,2002-07-30,1510
+551,"The Odyssey",9780060931957,1,374,1999-06-01,873
+552,"Collected Novellas",9780060932664,1,288,2008-01-08,877
+553,"Collected Stories",9780060932688,1,352,2008-05-13,877
+554,"Everville (Book of the Art #2)",9780060933159,1,697,1999-11-03,900
+555,"The Great and Secret Show (Book of the Art #1)",9780060933166,1,658,1999-11-03,900
+556,"A Mulligan for Bobby Jobe: A Novel",9780060933524,1,400,2002-05-07,873
+557,"Don Quixote",9780060934347,1,940,2005-04-26,606
+558,"In the Footsteps of Mr. Kurtz: Living on the Brink of Disaster in Mobutu's Congo",9780060934439,1,338,2002-05-28,873
+559,"Every Tongue Got to Confess: Negro Folk-tales from the Gulf States",9780060934545,1,320,2002-10-01,82
+560,"A Green Desire",9780060934637,2,576,2001-12-04,873
+561,"Mike Nelson's Death Rat!",9780060934729,1,336,2003-04-15,543
+562,"The Big War",9780060934736,2,512,2001-12-04,873
+563,"Middle Age: A Romance",9780060934903,1,480,2002-10-01,606
+564,"Kitchen Confidential: Adventures in the Culinary Underbelly",9780060934910,1,302,2001-05-01,608
+565,"Watership Down",9780060935450,1,479,2001-05-15,900
+566,"To Kill a Mockingbird",9780060935467,1,323,2005-07-05,877
+567,"One Matchless Time: A Life of William Faulkner",9780060935559,2,528,2005-06-14,873
+568,"The Girl in the Glass",9780060936198,1,304,2005-08-16,2210
+569,"The Best American Science Writing 2002",9780060936501,1,352,2002-09-03,873
+570,"Wittgenstein's Poker: The Story of a Ten-Minute Argument Between Two Great Philosophers",9780060936648,1,368,2002-09-17,606
+571,"Smart Discipline: Fast  Lasting Solutions for Your Child's Self-Esteem and Your Peace of Mind",9780060936662,2,208,2004-03-02,2210
+572,"How to Go to College Almost for Free  Updated",9780060937652,2,400,2001-09-18,429
+573,"The Schopenhauer Cure",9780060938109,1,358,2006-01-03,877
+574,"El plan infinito",9780060951276,4,336,2002-05-14,873
+575,"La casa de los espíritus",9780060951306,4,454,2001-09-18,886
+576,"Creating a Life Worth Living",9780060952433,1,336,1997-08-02,2210
+577,"African Nights",9780060954833,1,336,2000-03-22,2210
+578,"Under the Volcano",9780060955229,1,397,2000-04-26,873
+579,"The Autobiography of Mark Twain",9780060955427,1,508,2000-11-28,873
+580,"Beauty: The Invisible Embrace",9780060957261,2,261,2005-03-01,873
+581,"The Darling",9780060957353,2,400,2005-10-11,873
+582,"The Making of a Philosopher: My Journey Through Twentieth-Century Philosophy",9780060957605,1,256,2003-07-08,873
+583,"Tales of H.P. Lovecraft",9780060957902,1,352,2000-09-19,606
+584,"Five Quarters of the Orange",9780060958022,1,307,2002-06-04,873
+585,"The Language Instinct: How the Mind Creates Language",9780060958336,1,448,2000-11-07,877
+586,"Prodigal Summer",9780060959036,1,444,2001-10-16,873
+587,"The End of Obscenity: The Trials of Lady Chatterley  Tropic of Cancer  and Fanny Hill",9780060970611,1,528,1986-12-01,889
+588,"Fear of Falling: The Inner Life of the Middle Class",9780060973339,1,292,1990-09-26,873
+589,"Laura Ingalls Wilder Country: The People and places in Laura Ingalls Wilder's life and books",9780060973469,1,120,1995-12-01,873
+590,"The Hidden Hand",9780060974367,1,272,1992-05-01,873
+591,"Europe: A History",9780060974688,1,1392,1998-01-20,873
+592,"Savage Inequalities: Children in America's Schools",9780060974992,1,272,1992-06-12,873
+593,"Three Farmers on Their Way to a Dance",9780060975098,1,352,1994-12-01,873
+594,"The Fourteen Sisters of Emilio Montez O'Brien",9780060975944,1,496,2003-12-23,873
+595,Fiskadoro,9780060976095,2,221,2000-05-30,873
+596,"The Stars at Noon",9780060976101,1,192,2000-05-30,873
+597,"Operation Wandering Soul",9780060976118,1,352,2002-04-02,873
+598,"Prisoner's Dilemma",9780060977085,2,352,2002-04-02,873
+599,"The Physics of Star Trek",9780060977108,1,188,1996-08-16,1686
+600,"The God of Small Things",9780060977498,2,321,1997-05-01,882
+601,"Our Kind of People: Inside America's Black Upper Class",9780060984380,2,406,1999-12-22,873
+602,"Girlfriend in a Coma",9780060987329,1,288,1999-03-01,1686
+603,"The Long Hard Road Out of Hell",9780060987466,1,275,1999-03-03,1038
+604,"Confessions of an Ugly Stepsister",9780060987527,2,372,2000-10-03,2210
+605,"Running in Heels",9780060988258,1,432,2002-05-28,2210
+606,Lost,9780060988647,1,340,2002-09-17,2210
+607,"Mirror Mirror",9780060988654,1,280,2004-10-01,1685
+608,"The Dirt: Confessions of the World's Most Notorious Rock Band",9780060989156,1,431,2002-07-09,543
+609,"Life is Elsewhere",9780060997021,1,432,2000-07-25,873
+610,"Your Cheatin' Heart",9780061014093,1,336,2000-02-02,907
+611,"Cat Seeing Double (Joe Grey  #8)",9780061015618,1,384,2003-10-28,160
+612,"Cat Laughing Last (Joe Grey  #7)",9780061015625,1,368,2002-11-05,160
+613,"Well of Darkness (Sovereign Stone  #1)",9780061020575,1,562,2001-09-04,907
+614,"Guardians of the Lost (Sovereign Stone  #2)",9780061020582,1,652,2002-09-03,907
+615,"Journey Into the Void (Sovereign Stone  #3)",9780061020599,1,578,2004-07-27,880
+616,"Witches Abroad (Discworld  #12; Witches #3)",9780061020612,1,374,2002-07-30,907
+617,"Wyrd Sisters (Discworld  #6; Witches #2)",9780061020667,1,265,2001-02-06,915
+618,"The Light Fantastic (Discworld  #2; Rincewind #2)",9780061020704,1,277,2000-02-02,907
+619,"U.S.S. Seawolf (Admiral Arnold Morgan  #4)",9780061030659,1,496,2001-05-01,907
+620,"Carpe Jugulum (Discworld #23; Witches #6)",9780061051586,1,296,1999-09-08,880
+621,"Realms of Dragons: The Universes of Margaret Weis and Tracy Hickman",9780061052392,2,218,1999-10-01,889
+622,"The Player of Games (Culture  #2)",9780061053566,1,293,1997-02-01,902
+623,"My Soul to Keep (African Immortals  #1)",9780061053665,1,346,1998-04-08,880
+624,"Peril's Gate (Wars of Light & Shadow #6; Arc 3 - Alliance of Light  #3)",9780061054679,2,940,2003-01-01,889
+625,"Fugitive Prince (Wars of Light and Shadow  #4)",9780061054686,1,704,1998-09-08,889
+626,"The Dispossessed",9780061054884,1,387,1994-10-20,880
+627,"Cat in the Dark (Joe Grey  #4)",9780061059476,2,320,1999-11-03,160
+628,"Treasure Box",9780061093982,1,384,1997-10-01,864
+629,Homebody,9780061093999,1,430,1999-01-25,907
+630,"Imajica: The Reconciliation",9780061094156,1,544,1995-05-10,907
+631,Choke,9780061094224,1,352,1996-09-12,907
+632,"Dirt (Stone Barrington  #2)",9780061094231,2,448,1997-08-07,907
+633,"Nimitz Class (Admiral Arnold Morgan  #1)",9780061096846,1,528,1998-01-23,907
+634,"Kilo Class (Admiral Arnold Morgan  #2)",9780061096853,1,512,1999-03-03,899
+635,"A God in Ruins",9780061097935,1,517,2000-09-05,160
+636,"H.M.S. Unseen (Admiral Arnold Morgan  #3)",9780061098017,1,544,2000-03-01,907
+637,"Their Eyes Were Watching God",9780061120060,1,219,2006-05-30,82
+638,"A Tree Grows in Brooklyn",9780061120077,1,496,2006-05-30,889
+639,"One Hundred Years of Solitude",9780061120091,1,448,2006-05-30,877
+640,"Daughter of Fortune",9780061120251,1,432,2006-05-02,873
+641,"Brewer's Dictionary of Phrase and Fable",9780061121203,2,1326,2006-08-15,429
+642,"By the River Piedra I Sat Down and Wept",9780061122095,1,208,2006-05-23,898
+643,"Alphabet Weekends",9780061122187,2,448,2007-01-23,2210
+644,"The Alchemist",9780061122415,1,197,1993-05-01,882
+645,"Essential Welty: Why I Live at the P.O.  A Memory  Powerhouse and Petrified Man",9780061124198,1,1,2006-06-27,340
+646,"Veronika Decides to Die",9780061124266,1,210,2006-06-01,873
+647,"Prince Caspian (Chronicles of Narnia  #4)",9780061125256,1,223,2006-09-01,889
+648,"Black Girl/White Girl",9780061125645,1,288,2006-10-17,606
+649,"Goodnight Moon 123: A Counting Book (Over the Moon)",9780061125935,1,32,2007-07-01,889
+650,"Metro Girl (Alex Barnaby  #1)",9780061126529,1,6,2006-07-25,881
+651,"The Last Kingdom (The Saxon Stories  #1)",9780061126574,1,6,2006-07-25,881
+652,"Charlotte's Web",9780061127762,2,224,2006-10-31,882
+653,"By Myself and Then Some",9780061127915,1,512,2006-10-31,1038
+654,"The Art of Loving",9780061129735,1,192,2019-08-06,877
+655,"Sacred Games (Sacred Games)",9780061130359,1,916,2007-01-09,882
+656,"Runny Babbit Book and Abridged CD",9780061130472,2,96,2006-09-26,882
+657,"The Pinhoe Egg  (Chrestomanci  #6)",9780061131240,1,515,2006-10-03,803
+658,Factotum,9780061131271,2,208,2006-08-15,606
+659,"The White Masai",9780061131523,1,320,2006-10-10,82
+660,"Farewell Summer (Green Town  #3)",9780061131547,1,211,2006-10-17,2204
+661,Mandy,9780061131622,1,320,2006-08-15,882
+662,"Dispatches from the Edge: A Memoir of War  Disasters  and Survival",9780061132384,1,212,2006-05-23,864
+663,"My Heart May Be Broken  but My Hair Still Looks Great (Domestic Equalizers #2)",9780061134234,1,336,2006-08-29,2210
+664,"The Crusader: Ronald Reagan and the Fall of Communism",9780061136900,1,432,2006-10-17,864
+665,"Sugarplums and Scandal  (Love at Stake #2.5; Bed-and-Breakfast Mysteries #22.5)",9780061136955,1,327,2006-10-31,160
+666,"The Spider's House",9780061137037,1,432,2006-10-31,606
+667,"Days: A Tangier Diary",9780061137365,1,128,2006-06-13,606
+668,"Howl: Original Draft Facsimile  Transcript & Variant Versions  Fully Annotated by Author  with Contemporaneous Correspondence",9780061137457,1,208,2006-10-10,877
+669,Coraline,9780061139376,1,162,2006-08-29,2210
+670,"Points in Time",9780061139635,1,96,2006-10-31,606
+671,"Coronado: Stories",9780061139673,1,240,2006-08-08,2204
+672,"Cartas del diablo a su sobrino",9780061140044,4,144,2006-03-14,898
+673,"At the Edge (Psychic Triplet Trilogy  #1)",9780061140501,2,384,2007-05-29,160
+674,"Remind Me Again Why I Need A Man",9780061140532,1,384,2007-05-01,864
+675,Stardust,9780061142024,1,248,2006-08-29,873
+676,"When the Heart Waits: Spiritual Direction for Life's Sacred Questions",9780061144899,1,240,2016-10-11,898
+677,"The Dance of the Dissident Daughter: A Woman's Journey from Christian Tradition to the Sacred Feminine",9780061144905,2,253,1996-12-26,898
+678,"The Gabriel Hounds",9780061145391,1,322,2006-11-28,907
+679,"The Pact",9780061150142,1,512,2006-08-29,160
+680,"The OK Book",9780061152559,2,40,2007-04-24,882
+681,"The Known World",9780061159176,1,388,2006-08-29,82
+682,"Inés of My Soul",9780061161537,1,321,2006-11-07,864
+683,"Ines of My Soul",9780061161575,1,528,2006-11-07,864
+684,"A Million Little Lies",9780061171468,2,191,2006-03-28,2210
+685,"The Power of Art",9780061176104,2,448,2006-11-10,606
+686,"Ham on Rye",9780061177583,1,288,2014-07-29,606
+687,Women,9780061177590,1,291,2014-07-29,606
+688,"Smithsonian Intimate Guide to Human Origins",9780061196676,1,176,2007-02-06,873
+689,"My Secret: A PostSecret Book",9780061196683,5,144,2006-10-24,2204
+690,"The Secret Lives of Men and Women: A PostSecret Book",9780061198755,5,144,2007-01-09,2204
+691,"Las Crónicas de Narnia",9780061199004,4,816,2006-11-07,886
+692,"To Kill a Mockingbird",9780061205699,2,323,2006-10-17,864
+693,"The Complete C.S. Lewis Signature Classics",9780061208492,1,746,2007-02-06,898
+694,"Five Quarters of the Orange",9780061214608,1,336,2007-01-02,2210
+695,"The Roald Dahl Audio Collection",9780061214967,2,4,2007-02-20,889
+696,"Charlotte's Web",9780061228742,1,179,2006-11-01,895
+697,"Men Are from Mars  Women Are from Venus",9780061232053,1,2,2007-04-03,881
+698,"Freakonomics: A Rogue Economist Explores the Hidden Side of Everything",9780061234002,1,320,2006-10-17,2204
+699,"The Gravedigger's Daughter",9780061236822,1,582,2007-05-29,606
+700,"Marley & Me: Life and Love with the World's Worst Dog",9780061238222,2,306,2006-10-31,2204
+701,"The End of Days (The Earth Chronicles  #7)",9780061238239,1,336,2007-04-03,2204
+702,"The Maytrees",9780061239533,1,216,2007-06-12,864
+703,"Influence: The Psychology of Persuasion",9780061241895,1,320,2006-12-26,868
+704,"Freakonomics: A Rogue Economist Explores the Hidden Side of Everything",9780061245138,2,496,2006-12-08,864
+705,"El príncipe de la niebla (Trilogía de la Niebla  #1)",9780061284380,4,230,2006-11-21,1664
+706,"The Blue and Brown Books",9780061312113,2,208,1965-01-01,866
+707,"The Essential Writings",9780061318313,10,368,1977-04-21,873
+708,"El Alquimista: Edicion Illustrada: Edicion Illustrada",9780061351341,1,192,2007-04-10,1664
+709,"Wicked: Memorias de una bruja mala (Los años malvados  #1)",9780061351396,4,508,2007-05-01,1664
+710,"Owning Your Own Shadow: Understanding the Dark Side of the Psyche",9780062507549,1,118,2009-06-09,898
+711,"The World's Religions",9780062508119,1,416,1991-09-13,898
+712,"Muhammad: A Biography of the Prophet",9780062508867,1,304,1993-09-10,898
+713,"The Enneagram Made Easy: Discover the 9 Types of People",9780062510266,1,161,1994-03-11,904
+714,"A Manual for Living",9780062511119,1,96,1994-06-23,898
+715,"El alquimista: una fábula para seguir tus sueños",9780062511409,1,192,2018-10-23,1664
+716,"The Pilgrimage: A Contemporary Quest for Ancient Wisdom",9780062512796,2,272,1995-05-01,898
+717,"The Valkyries",9780062513342,2,212,1996-09-28,898
+718,"The Monk Who Sold His Ferrari: A Fable About Fulfilling Your Dreams and Reaching Your Destiny",9780062515674,1,208,1999-04-21,898
+719,"Rainforest Home Remedies: The Maya Way To Heal Your Body and Replenish Your Soul",9780062516374,1,221,2001-01-09,898
+720,"The Legacy of Luna: The Story of a Tree  a Woman  and the Struggle to Save the Redwoods",9780062516596,1,262,2001-04-03,898
+721,"A Circle of Quiet (Crosswicks Journals #1)",9780062545039,9,246,1984-01-01,898
+722,"Bulfinch's Mythology",9780062700254,1,768,1991-12-24,429
+723,"A Hard Day's Write: The Stories Behind Every Beatles Song",9780062736987,1,224,1999-11-01,903
+724,Romanticism,9780064300896,1,416,1979-08-15,2189
+725,"West from Home: Letters of Laura Ingalls Wilder  San Francisco  1915  (Little House #11)",9780064400817,1,124,1976-10-20,865
+726,"A Stranger Came Ashore",9780064400824,1,163,1977-04-06,889
+727,"Betsy-Tacy (Betsy-Tacy  #1)",9780064400961,2,144,2007-08-14,882
+728,"Betsy and Tacy Go Over the Big Hill (Betsy-Tacy  #3)",9780064400992,2,192,2000-04-05,882
+729,"Mrs. Piggle-Wiggle (Mrs. Piggle Wiggle  #1)",9780064401487,1,128,2007-08-14,882
+730,"Hello  Mrs. Piggle-Wiggle (Mrs. Piggle Wiggle  #4)",9780064401494,1,125,2007-08-14,882
+731,"Mrs. Piggle-Wiggle's Magic (Mrs. Piggle Wiggle  #2)",9780064401517,1,192,2007-08-14,882
+732,"Let the Hurricane Roar",9780064401586,2,118,1985-10-01,909
+733,"The Wish Giver: Three Tales of Coven Tree",9780064401685,1,192,2019-04-02,882
+734,"Racso and the Rats of NIMH (Rats of NIMH  #2)",9780064402453,1,288,1988-09-01,882
+735,"Child of the Owl (Golden Mountain Chronicles  #7)",9780064403368,1,288,2001-05-08,882
+736,"R-T  Margaret  and the Rats of NIMH (Rats of NIMH  #3)",9780064403870,1,272,1991-09-30,882
+737,"The Rainbow People",9780064404419,1,208,1992-08-30,882
+738,"Beauty: A Retelling of the Story of Beauty and the Beast",9780064404778,1,256,1993-06-30,882
+739,"Dragon's Gate (Golden Mountain Chronicles  #3)",9780064404891,2,352,2001-01-23,882
+740,"Betsy's Wedding (Betsy-Tacy  #10)",9780064405447,2,260,1996-03-31,909
+741,"Betsy and the Great World (Betsy-Tacy  #9)",9780064405454,1,321,1996-03-31,909
+742,"Betsy and Joe (Betsy-Tacy  #8)",9780064405461,1,336,1995-03-31,909
+743,"Betsy Was a Junior (Betsy-Tacy  #7)",9780064405478,2,320,1995-03-31,909
+744,"Crazy Lady!",9780064405713,1,192,1995-01-19,882
+745,"Strawberry Girl",9780064405850,1,208,2005-04-26,882
+746,"Seven Spiders Spinning (The Hamlet Chronicles  #1)",9780064405959,1,144,1995-08-04,882
+747,"American Dragons: Twenty-five Asian American Voices",9780064406031,1,256,1995-09-07,889
+748,"The Midwife's Apprentice",9780064406307,1,128,1996-08-16,909
+749,"Winter on the Farm",9780064406925,1,32,1997-09-06,2215
+750,"Down to the Bonny Glen (Little House: The Martha Years  #3)",9780064407144,1,321,2001-05-08,909
+751,"Six Haunted Hairdos (The Hamlet Chronicles  #2)",9780064407205,1,176,1999-08-18,882
+752,Monster,9780064407311,1,281,2019-03-05,82
+753,Echo,9780064407441,1,215,2001-08-06,905
+754,"The Rose and the Beast: Fairy Tales Retold",9780064407458,2,240,2001-08-07,1052
+755,"Kissing the Witch: Old Tales in New Skins",9780064407724,1,228,1999-02-27,905
+756,"Emily of Deep Valley (Deep Valley  #2)",9780064408585,1,304,2000-12-31,909
+757,"I Was a Teenage Fairy",9780064408622,1,192,2000-05-03,905
+758,"The Trumpet of the Swan",9780064408677,1,252,2000-10-03,882
+759,"The Good Liar",9780064408745,1,144,2002-05-28,882
+760,"Old Town in the Green Groves: Laura Ingalls Wilder's Lost Little House Years",9780064409902,1,176,2004-06-01,879
+761,"Howl's Moving Castle (Howl's Moving Castle  #1)",9780064410342,1,329,2001-08-01,879
+762,"Four Stupid Cupids (The Hamlet Chronicles  #4)",9780064410724,1,224,2001-12-04,882
+763,"Charlotte's Web",9780064410939,1,184,2001-10-01,894
+764,"Little House Friends (Little House Chapter Books: Laura  #9)",9780064420808,1,80,1998-09-05,882
+765,"Christmas Stories (Little House Chapter Books: Laura  #10)",9780064420815,1,80,1999-10-06,882
+766,"Winter Days in the Big Woods",9780064433730,1,32,1995-09-15,882
+767,"Christmas in the Big Woods",9780064434874,1,32,1997-09-20,882
+768,"A Little House Birthday",9780064434942,1,40,1998-09-05,882
+769,"Summertime in the Big Woods",9780064434973,1,40,2000-02-02,882
+770,"The Deer in the Wood",9780064434980,1,32,1999-01-16,882
+771,"The Dragon Prince: A Chinese Beauty & the Beast Tale",9780064435185,1,32,1999-01-09,882
+772,"A Little Prairie House",9780064435260,1,32,1999-03-21,882
+773,Grizzwold,9780064440578,1,64,1984-09-05,882
+774,Chester,9780064440950,1,64,1986-04-18,882
+775,"Captain Cat",9780064441766,1,48,1994-04-22,882
+776,"The Little House Cookbook: Frontier Foods from Laura Ingalls Wilder's Classic Stories",9780064460903,1,256,1989-09-07,882
+777,"The Laura Ingalls Wilder Country Cookbook",9780064461962,1,160,1997-10-01,889
+778,"My Little House Crafts Book: 18 Projects from Laura Ingalls Wilder's",9780064462044,1,64,1998-03-21,882
+779,"Pioneer Girl: The Story of Laura Ingalls Wilder",9780064462341,1,32,2000-02-02,882
+780,"Dear Genius: The Letters of Ursula Nordstrom",9780064462358,1,406,2000-03-31,882
+781,"The Best Bug Parade",9780064467001,2,40,1996-03-27,882
+782,"Witch Baby (Weetzie Bat  #2)",9780064470650,1,128,1992-01-01,905
+783,"The Chronicles of Chrestomanci  Vol. 1 (Chrestomanci  #1-2)",9780064472685,2,598,2007-04-10,803
+784,"All-American Girl (All-American Girl  #1)",9780064472777,1,398,2003-07-22,909
+785,"The Time of the Ghost",9780064473545,1,291,1981-01-01,909
+786,"A Light in the Attic (Book & CD)",9780066236179,2,176,2001-10-09,882
+787,"The Die Broke Financial Problem Solver",9780066619910,2,272,2000-12-26,2210
+788,"What Would Machiavelli Do?: The Ends Justify the Meanness",9780066620107,1,176,2004-07-28,868
+789,"The Little Book of Coaching: Motivating People to Be Winners",9780066621036,2,128,2001-01-23,868
+790,"Diez Cuentos de Eva Luna Con Guia de Comprension y Repaso de Gramatica",9780070013568,1,256,1994-12-01,1234
+791,"Dear Genius...: A Memoir of My Life with Truman Capote",9780070183179,1,275,1987-12-01,1232
+792,"Dracula Was a Woman: In Search of the Blood Countess of Transylvania",9780070456716,1,254,1987-06-01,1232
+793,Virgin,9780070488205,1,210,1980-01-01,1232
+794,"Mission Possible",9780071348270,1,242,1999-04-30,1232
+795,"Positioning: The Battle for Your Mind",9780071359160,2,246,2001-01-18,1233
+796,"Harrison's Principles of Internal Medicine",9780071391405,1,2751,2004-07-27,1235
+797,"Crucial Conversations: Tools for Talking When Stakes Are High",9780071401944,1,240,2002-07-09,1233
+798,"How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships",9780071418584,1,345,2003-10-10,437
+799,"Goodman & Gilman's the Pharmacological Basis of Therapeutics",9780071422802,1,2021,2005-09-21,1236
+800,"Easy French Reader",9780071428484,1,228,2003-09-17,1233
+801,"Advanced Statistics Demystified",9780071432429,1,324,2004-06-07,1233
+802,"Slim to None: A Journey Through the Wasteland of Anorexia Treatment",9780071433716,1,384,2004-02-04,1233
+803,"Practice Makes Perfect: Italian Verb Tenses",9780071451383,1,252,2005-11-23,1232
+804,"Marketing Warfare",9780071460828,1,216,2005-12-13,1233
+805,"McGraw-Hill's SAT I (McGraw-Hill's SAT I)",9780071462358,1,890,2005-10-01,1232
+806,"The Complete Book of Home  Site and Office Security: Selecting  Installing and Troubleshooting Systems and Devices",9780071467445,1,309,2006-08-01,1233
+807,"Sclerotherapy and vein treatment",9780071485425,1,248,2011-12-30,1236
+808,"What to Sell on ebay and Where to Get It: The Definitive Guide to Product Sourcing for eBay and Beyond",9780072262780,1,260,2006-01-24,1231
+809,"Pilgrim at Tinker Creek",9780072434170,1,288,2000-06-01,873
+810,"The Last Dance: Encountering Death and Dying",9780072920963,1,664,2004-02-06,1234
+811,"Heat and Mass Transfer",9780073250359,1,901,2006-01-04,1237
+812,"Complete Works of Tacitus",9780075536390,1,773,1964-09-01,1234
+813,"The Philosophy of Hegel",9780075536550,1,552,1965-02-01,1231
+814,"The Weekenders: Travels in the Heart of Africa",9780091881801,1,340,2001-11-08,605
+815,"Who Moved My Cheese?",9780091883768,1,96,2002-02-07,2092
+816,"How To Have A Beautiful Mind",9780091894603,2,232,2004-06-03,2092
+817,"The Toy Maker: The Life and Times of Inventor Frank Hornby",9780091895815,1,352,2004-08-01,605
+818,"Darwin's Watch (The Science of Discworld  #3)",9780091898243,1,344,2006-08-03,605
+819,"How to Win Friends and Influence People",9780091906818,1,268,2006-04-06,2092
+820,"Surely You're Joking  Mr. Feynman!",9780099173311,1,350,2006-12-17,2113
+821,Timequake,9780099267546,1,219,1998-08-06,2118
+822,"The Feast Of All Saints",9780099269472,1,640,1997-12-04,116
+823,"Blood And Gold (The Vampire Chronicles  #8)",9780099271499,1,752,2002-11-07,116
+824,"An Imaginary Life",9780099273844,1,156,1999-02-05,2113
+825,"The Great World",9780099273868,1,336,1999-05-20,2113
+826,"The Risk Pool",9780099276494,1,479,1998-06-04,2113
+827,"The Noonday Demon: An Anatomy of Depression",9780099277132,5,560,2002-04-04,2113
+828,"The Human Stain (The American Trilogy  #3)",9780099282198,1,384,2001-04-05,2113
+829,Survivor,9780099282648,1,289,2000-08-03,2113
+830,"Ali and Nino",9780099283225,1,237,2000-10-05,2124
+831,"In Praise of Shadows",9780099283577,1,73,2001-05-03,2118
+832,Filth,9780099284291,1,393,1999-07-01,2113
+833,Gain,9780099284468,1,355,2001-11-01,2113
+834,"A Star Called Henry",9780099284482,1,342,2000-09-07,2113
+835,"The Moon And Sixpence",9780099284765,1,215,1999-09-02,2118
+836,"A Moveable Feast",9780099285045,1,192,2012-09-06,2113
+837,"Set This House On Fire",9780099285557,1,567,2001-04-05,2118
+838,"The Confessions of Nat Turner",9780099285564,1,480,2004-07-01,2118
+839,Experience,9780099285823,1,401,2001-04-05,2113
+840,"Hannibal (Hannibal Lecter  #3)",9780099297703,1,564,2000-05-18,116
+841,"Operation Shylock: A Confession",9780099307914,1,400,1994-06-16,2113
+842,"The Professor of Desire",9780099389019,1,272,1995-10-05,2113
+843,"The Phantom Menace (Star Wars: Novelizations  #1)",9780099409960,1,336,2000-03-02,116
+844,"Star by Star (Star Wars: The New Jedi Order  #9)",9780099410386,1,605,2002-10-03,116
+845,"A Painted House",9780099416159,1,466,2002-09-29,118
+846,"The Agony and the Ecstasy",9780099416272,1,777,1991-01-01,116
+847,Fury,9780099421863,1,272,2002-09-05,2113
+848,"The Bridegroom",9780099422174,1,225,2001-10-04,2113
+849,"Island: Collected Stories",9780099422327,1,448,2002-09-05,2113
+850,"Yeats Is Dead",9780099422341,1,298,2002-06-06,2113
+851,Choke,9780099422686,5,293,2002-08-01,2113
+852,"The Dying Animal",9780099422693,1,156,2002-03-07,2113
+853,"Illusions: The Adventures of a Reluctant Messiah",9780099427865,1,144,2001-03-12,119
+854,"In the Pond",9780099428169,5,160,2002-01-03,2113
+855,"I Don't Know How She Does It (Kate Reddy  #1)",9780099428381,1,368,2003-05-01,2113
+856,"How to Travel with a Salmon & Other Essays",9780099428633,1,229,2001-04-16,2113
+857,"The Trial",9780099428640,1,255,2001-04-09,2113
+858,"Turtle Moon",9780099429166,1,275,2002-04-04,2113
+859,Atonement,9780099429791,1,372,2002-05-02,2113
+860,"A Birthday for Frances",9780099432449,1,32,2002-06-06,869
+861,"The Whore's Child and Other Stories",9780099437529,1,240,2003-11-01,2116
+862,Angels,9780099440833,1,209,2003-03-06,2113
+863,"Sputnik Sweetheart",9780099448471,1,229,2002-10-03,2113
+864,"South of the Border  West of the Sun",9780099448570,1,190,2006-12-01,2113
+865,"The Elephant Vanishes",9780099448754,1,327,2003-12-01,2114
+866,"Dance Dance Dance",9780099448761,1,393,2002-02-07,2113
+867,"One Step Behind  (Kurt Wallander  #7)",9780099448877,1,450,2003-04-03,2113
+868,"The Rings of Saturn",9780099448921,1,304,1995-07-01,2113
+869,"Berlin Blues",9780099449232,1,247,2004-11-04,2113
+870,"The Curious Incident of the Dog in the Night-Time",9780099450252,1,272,2004-04-15,2113
+871,"Balzac And The Little Chinese Seamstress",9780099452249,1,172,2002-04-17,1640
+872,"Hide-and-Seek with Angels: The Life of J.M. Barrie",9780099453239,1,448,2006-05-16,116
+873,"The Time of Our Singing",9780099453833,1,631,2004-02-05,2113
+874,"The Atom Station",9780099455158,5,192,2004-03-04,2118
+875,"Haruki Murakami and the Music of Words",9780099455448,1,462,2005-01-06,2113
+876,"The Spook's Apprentice (The Last Apprentice / Wardstone Chronicles  #1)",9780099456452,1,325,2005-06-30,1681
+877,"The Curious Incident of the Dog In the Night-time",9780099456766,1,268,2004-04-01,1681
+878,"Human Traces",9780099458265,1,793,2006-07-06,2113
+879,"Blood Canticle (The Vampire Chronicles #10)",9780099460176,1,400,2004-11-04,116
+880,"Green Hills of Africa",9780099460954,1,200,2004-03-04,2118
+881,"Open House",9780099461265,5,314,2003-09-29,118
+882,"Visiting Mrs Nabokov and Other Excursions",9780099461876,1,288,2005-04-07,2113
+883,Money,9780099461883,1,394,2005-04-07,2113
+884,"The Pure in Heart (Simon Serrailler  #2)",9780099462101,1,320,2006-06-01,2113
+885,"Like a Charm",9780099462255,1,384,2004-06-03,116
+886,"The White Lioness (Kurt Wallander  #3)",9780099464693,1,576,2003-09-04,2113
+887,"Bringing Down The House",9780099468233,5,320,2004-05-06,116
+888,"The Cement Garden",9780099468387,1,144,2004-08-05,2113
+889,"Earthly Powers",9780099468646,1,649,2004-05-06,2118
+890,"The Witching Hour (Lives of the Mayfair Witches  #1)",9780099471424,1,1207,2004-11-04,116
+891,"Lasher (Lives of the Mayfair Witches  #2)",9780099471431,1,400,2004-11-04,118
+892,"Women Who Love Too Much",9780099474128,1,314,2004-09-02,116
+893,"The Nonesuch",9780099474388,1,304,2005-01-06,116
+894,"The Talisman Ring",9780099474395,1,268,2005-01-06,116
+895,"The Convenient Marriage",9780099474425,1,272,2005-01-06,116
+896,"Lady of Quality",9780099474463,1,267,2005-06-02,116
+897,"A Very Long Engagement",9780099474548,1,320,2005-01-06,2113
+898,"False Colours",9780099476337,1,303,2005-06-02,116
+899,"Sprig Muslin",9780099476351,1,268,2005-06-02,116
+900,Catch-22,9780099477310,1,519,1994-10-06,2113
+901,"Grey Eminence",9780099477822,2,320,2005-04-07,2118
+902,"The Quiet American",9780099478393,1,198,2004-10-07,2117
+903,"The Heart of the Matter",9780099478423,1,272,2004-10-07,2118
+904,"The End of the Affair",9780099478447,1,160,2004-10-07,2118
+905,"Shake Hands with the Devil",9780099478935,5,563,2005-02-03,116
+906,"Enduring Love",9780099481249,1,245,2004-10-28,2113
+907,"For Whom The Bell Tolls",9780099481560,5,490,2005-05-05,2118
+908,"Skipping Christmas",9780099481683,1,198,2004-11-06,116
+909,"Just One More Day: A Memoir",9780099486831,1,340,2006-01-05,118
+910,"Watermelon (Walsh Family  #1)",9780099489986,1,520,2005-07-07,116
+911,"The Invisible Writing",9780099490685,1,544,2005-09-01,2118
+912,"No Wind of Blame (Inspector Hemingway #1)",9780099493679,1,352,2006-09-07,116
+913,"Memoirs of a Geisha",9780099498186,2,497,2005-12-01,2113
+914,"Light a Penny Candle",9780099498575,1,832,2006-05-04,116
+915,"Dublin 4",9780099498582,2,256,2006-05-04,116
+916,"Circle of Friends",9780099498599,1,722,2006-06-01,116
+917,"Victoria Line  Central Line",9780099498636,1,432,2006-07-06,116
+918,"The Lilac Bus",9780099498643,1,196,2007-01-12,524
+919,"Firefly Summer",9780099498667,1,928,2006-08-03,116
+920,"Slow Learner: Early Stories",9780099532514,1,208,1995-02-16,2118
+921,"Midnight's Children",9780099578512,1,647,1995-05-01,2113
+922,"Sabbath's Theater",9780099582014,1,451,1996-09-05,2113
+923,"The Moor's Last Sigh",9780099592419,1,434,1996-07-04,2113
+924,"CivilWarLand in Bad Decline",9780099595816,1,179,1997-02-06,2113
+925,"Five Patients",9780099601111,1,235,1995-02-02,116
+926,"The Abyss",9780099690603,1,363,1989-10-05,1123
+927,"The Second Sex",9780099744214,1,880,1997-08-07,2118
+928,Sula,9780099760016,1,189,2005-05-07,2114
+929,"Cry  the Beloved Country",9780099766810,1,240,2002-08-01,2118
+930,"Memoirs of a Geisha",9780099771517,1,497,1998-06-04,2113
+931,"American Pastoral (The American Trilogy  #1)",9780099771814,1,432,1998-03-05,2113
+932,Deception,9780099801900,1,208,2006-01-17,2113
+933,"Cross Stitch (Outlander  #1)",9780099911708,1,864,1994-03-03,118
+934,"The Brothers Karamazov",9780099922803,1,796,1992-01-16,2118
+935,"Ratner's Star",9780099928409,1,448,1992-07-16,2113
+936,"Horizontal Gene Transfer",9780126801262,1,445,2002-01-16,18
+937,"Object-Oriented Programming in C++",9780130158857,1,640,1999-08-13,1591
+938,"Things Fall Apart: An Adapted Classic",9780130235015,1,113,2000-04-17,774
+939,"Physics: for Scientists and Engineers with Modern Physics",9780130352996,1,1440,2004-06-09,240
+940,"Introduction to the Philosophies of Research and Criticism in Education and the Social Sciences",9780130422538,1,360,2004-10-18,1462
+941,"Chemistry: The Central Science",9780130669971,1,1046,2002-05-17,1591
+942,"C++ Programmer's Notebook",9780130887016,1,528,2001-08-16,1593
+943,"World War II: A Short History",9780130977694,2,343,2003-06-19,1717
+944,"Criminal Investigation: The Art and the Science",9780131198777,2,536,2004-10-19,1591
+945,"The Choice: A Fable of Free Trade and Protectionism",9780131433540,1,132,2006-09-01,1462
+946,"Astronomy Today",9780131445963,1,2,2004-07-26,1591
+947,"Java: An Introduction to Problem Solving and Programming",9780131492028,2,1060,2004-12-01,1591
+948,"Leadership in Organizations",9780131494848,5,542,2005-07-07,1591
+949,"Management Information Systems: Managing the Digital Firm",9780131538412,2,736,2005-03-01,1591
+950,"The Comparative Study of Political Elites",9780131541955,1,246,1976-01-01,1591
+951,"The Visual Arts: A History  Volume 2",9780131551138,1,604,2005-05-27,1591
+952,"Organized Crime",9780131730366,1,496,2006-07-01,1591
+953,"Relativity: The Special and the General Theory: The Masterpiece Science Edition",9780131862616,2,288,2005-04-01,1531
+954,"Astronomy: A Beginner's Guide to the Universe",9780131871656,1,499,2006-02-24,239
+955,"The Visual Arts: A History",9780131935075,1,936,2005-05-01,1591
+956,"Three Genres: Writing Fiction/Literary Nonfiction  Poetry  and Drama",9780132197380,1,476,2006-07-01,1591
+957,"A World of Art",9780132221863,1,592,2006-12-22,1591
+958,"Data Structures and Abstractions with Java",9780132370455,1,998,2006-08-04,1591
+959,"Social Psychology",9780132382458,1,633,2006-12-06,1591
+960,"Physics for Scientists and Engineers",9780132431064,2,976,2000-01-20,1591
+961,"Philosophy of Religion",9780136626282,2,160,1989-11-20,1462
+962,"Artificial Intelligence: A Modern Approach",9780137903955,1,1132,2002-12-20,1591
+963,"Red  White  and Black: The Peoples of Early North America",9780139567568,1,362,1999-07-14,1591
+964,"Big Money",9780140009378,1,288,1991-09-03,1476
+965,"Under the Net",9780140014457,1,252,1982-10-27,1487
+966,"Kiss Kiss",9780140018325,1,231,1987-10-26,1476
+967,"A Severed Head",9780140020038,1,204,1976-11-18,1476
+968,"An Unofficial Rose",9780140021547,2,288,1973-01-06,1487
+969,"The Unicorn",9780140024760,1,270,1987-01-06,1476
+970,"The Nice and the Good",9780140030341,1,362,1978-12-14,1476
+971,"Bruno's Dream",9780140031768,1,320,1976-11-18,1476
+972,"The Pearl/The Red Pony",9780140042320,1,181,1976-09-30,1476
+973,"Montaillou: Cathars and Catholics in a French Village  1294-1324",9780140054712,5,400,1980-05-29,1488
+974,"My Uncle Oswald",9780140055771,1,208,1986-05-01,1472
+975,"John Hammond on Record: An Autobiography",9780140057058,1,432,1981-02-26,1476
+976,"Life With Jeeves (Jeeves  #6  2  & 4)",9780140059021,1,557,1983-09-29,1476
+977,"Life at Blandings",9780140059038,2,608,1988-01-05,1476
+978,"The Mottled Lizard",9780140059588,1,334,1986-03-25,1476
+979,"Before The Mayflower A History of Black America",9780140072143,2,70,1984-05-01,1476
+980,"Greasy Lake & Other Stories",9780140077810,1,240,1986-05-06,1476
+981,"Demon Box",9780140085303,1,400,1987-08-04,1476
+982,"My Education: A Book of Dreams",9780140094541,1,193,1996-06-01,1476
+983,"City of Glass (The New York Trilogy  #1)",9780140097313,1,203,1987-04-07,1476
+984,"Ghosts (The New York Trilogy  #2)",9780140097351,1,96,1987-07-07,1476
+985,"The Locked Room (The New York Trilogy  #3)",9780140097368,2,192,1988-01-05,1476
+986,"The Pigeon",9780140105834,1,77,1989-06-29,1470
+987,"You Bright and Risen Angels",9780140110876,1,635,1988-12-01,1476
+988,"Moon Palace",9780140115857,1,320,1990-04-01,1476
+989,"The Satanic Verses",9780140118902,1,560,1988-09-26,1487
+990,Americana,9780140119480,1,377,1989-07-06,1476
+991,"If the River Was Whiskey",9780140119503,1,240,1990-05-01,1476
+992,"On Directing Film",9780140127225,1,107,1992-01-01,1476
+993,"Love's Executioner  And Other Tales Of Psychotherapy",9780140128468,1,270,1995-01-31,1476
+994,"East Is East",9780140131673,1,384,1991-08-01,1476
+995,"The Ice-Shirt (Seven Dreams #1)",9780140131963,1,415,1993-08-01,1476
+996,"Montaillou: Cathars and Catholics in a French Village 1294-1324",9780140137002,1,400,2002-12-05,1470
+997,"The History of Sexuality  Volume 2: The Use of Pleasure",9780140137347,1,304,1998-07-30,1470
+998,"The Big Rock Candy Mountain",9780140139396,1,563,1991-03-01,1470
+999,"The Spectator Bird",9780140139402,1,214,1990-11-01,1470
+1000,"Sailor Song",9780140139976,1,533,1993-07-01,1476
