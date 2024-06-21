@@ -20,9 +20,113 @@ License
 The code in this repository is licensed under the MIT License.
 <hr>
 
+<div align="center"><h1>Views in SQL</h1></div>
+
+**View**
+
+A view is a named query stored in the database. It's like a virtual table that doesn't store any data. A view can be reused whenever needed by calling the view name, allowing reusability of frequently used queries.
+
+A view is a virtual table based on the result of a SQL query, presenting data in a more organized and simplified way without storing the data in a physical table.
+
+**Example**
+```sql
+CREATE VIEW NewTable AS
+SELECT sname, grade, percentage FROM result
+WHERE percentage > 65 ORDER BY sname;
+
+SELECT * FROM NewTable;
+
+DROP VIEW NewTable;
+
+CREATE OR REPLACE VIEW NewTable AS
+SELECT rollno, sname, grade, percentage FROM result
+WHERE percentage > 50 ORDER BY sname;
+
+SELECT * FROM result;
+```
+
+<div align="center"><h1>Union in SQL</h1></div>
+
+**Union**
+
+The UNION operator is used to combine the result sets of two or more SELECT statements into a single result set.
+
+**Rules**
+
+* Every SELECT statement within UNION must have the same number of columns.
+* The columns must also have similar data types.
+* The columns in every SELECT statement must also be in the same order.
+
+**Example**
+```sql
+SELECT city FROM employee
+UNION ALL
+SELECT city FROM customer
+ORDER BY city;
+```
+
+<div align="center"><h1>Group by in SQL</h1></div>
+
+**Group By**
+
+The GROUP BY clause is used to group rows of a query result set by one or more columns. It's a way to categorize data into groups based on common values in one or more columns.
+
+**Example**
+```sql
+SELECT MAX(salary) FROM employee
+GROUP BY job
+ORDER BY COUNT(cno);
+```
+
+<div align="center"><h1>Having in SQL</h1></div>
+
+**Having**
+
+The HAVING clause is used to filter groups of rows based on conditions specified in the GROUP BY clause. It's similar to the WHERE clause, but it's used to filter groups instead of individual rows.
+
+**Example**
+```sql
+SELECT COUNT(rollno), grade FROM result
+WHERE percentage > 65
+GROUP BY grade
+HAVING COUNT >= 3;
+```
+
 <div align="center"><h1>Index in SQL</h1></div>
 
-Indexes in SQL, particularly in MySQL, are critical for optimizing the performance of database queries. Here are the key points (the 20% of learnings) that will help you understand 80% of how indexes work and why they are important:
+**Indexes in MySQL**
+
+Indexes are used to find rows with specific column values quickly, improving the speed of data retrieval operations on a database table. It is similar to GROUP BY. Indexes are used to retrieve data from the database more quickly.
+
+**Automatic Indexing**
+
+Indexing is automatically assigned/created when the following keywords are used:
+
+* Primary Key
+* Foreign Key
+* Unique
+
+**Manual Indexing**
+
+We can also create indexing manually using the following syntax:
+
+**Regular Index**
+```sql
+CREATE INDEX index_name ON table_name(column_name);
+```
+**Other Types of Indexes**
+
+* Full Text Index
+* Descending Index
+* Spatial Index
+
+**Points to Remember**
+
+1. **Index limitations**: Index cannot be applied to all columns.
+2. **Index data structures**: When an index is created, it will create a separate database and data structures to perform faster data retrieval operations.
+3. **Performance impact**: Insert and update operations become slow when indexing is used. Only data retrieval is faster.
+4. **Large database benefits**: Indexing is useful with large databases.
+
 
 ### 1. **What is an Index?**
 An index is a data structure that improves the speed of data retrieval operations on a database table. It is analogous to an index in a book.
@@ -413,5 +517,71 @@ This query finds employees who work in departments located in San Francisco.
 5. **Correlated subqueries** depend on the outer query for their values.
 6. **Nested subqueries** are subqueries within other subqueries for complex queries.
 
+
+<div align="center"><h1>String Functions and Operators</h1></div>
+
+| **Name** | **Description** |
+| --- | --- |
+| ASCII() | Return numeric (ASCII) value of left-most character (1st char in string) |
+| BIN() | Return a binary value of given number |
+| BIT_LENGTH() | Return length of argument in bits (1 byte = 8 bits) |
+| CHAR() | Return the character for each integer passed |
+| CHAR_LENGTH() | Return number of characters in argument |
+| CHARACTER_LENGTH() | Synonym for CHAR_LENGTH() |
+| CONCAT() | Return concatenated string |
+| CONCAT_WS() | Return concatenate with separator |
+| ELT() | Return string at index number |
+| EXPORT_SET() | Return a string such that for every bit set in the value bits, you get an on string and for every unset bit, you get an off string |
+| FIELD() | Index (position) of first argument in subsequent arguments |
+| FIND_IN_SET() | Index (position) of first argument within second argument |
+| FORMAT() | Return a number formatted to specified number of decimal places |
+| FROM_BASE64() | Decode base64 encoded string and return result |
+| HEX() | Hexadecimal representation of decimal or string value |
+| INSERT() | Insert substring at specified position up to specified number of characters |
+| INSTR() | Return the index of the first occurrence of substring |
+| LCASE() | Synonym for LOWER() |
+| LEFT() | Return the leftmost number of characters as specified |
+| LENGTH() | Return the length of a string in bytes |
+| LIKE | Simple pattern matching |
+| LOAD_FILE() | Load the named file |
+| LOCATE() | Return the position of the first occurrence of substring |
+| LOWER() | Return the argument in lowercase |
+| LPAD() | Return the string argument, left-padded with the specified string |
+| LTRIM() | Remove leading spaces on left |
+| MAKE_SET() | Return a set of comma-separated strings that have the corresponding bit in bits set |
+| MATCH() | Perform full-text search |
+| MID() | Return a substring starting from the specified position |
+| NOT LIKE | Negation of simple pattern matching |
+| NOT REGEXP | Negation of REGEXP |
+| OCT() | Return a string containing octal representation of a number |
+| OCTET_LENGTH() | Synonym for LENGTH() |
+| ORD() | Return character code for leftmost character of the argument |
+| POSITION() | Synonym for LOCATE() |
+| QUOTE() | Escape the argument for use in an SQL statement |
+| REGEXP | Whether string matches regular expression |
+| REGEXP_INSTR() | Starting index of substring matching regular expression |
+| REGEXP_LIKE() | Whether string matches regular expression |
+| REGEXP_REPLACE() | Replace substrings matching regular expression |
+| REGEXP_SUBSTR() | Return substring matching regular expression |
+| REPEAT() | Repeat a string the specified number of times |
+| REPLACE() | Replace occurrences of a specified string |
+| REVERSE() | Reverse the characters in a string |
+| RIGHT() | Return the specified rightmost number of characters |
+| RLIKE | Whether string matches regular expression |
+| RPAD() | Append string the specified number of times |
+| RTRIM() | Remove trailing spaces |
+| SOUNDEX() | Return a soundex string |
+| SOUNDS LIKE | Compare sounds |
+| SPACE() | Return a string of the specified number of spaces |
+| STRCMP() | Compare two strings |
+| SUBSTR() | Return the substring as specified |
+| SUBSTRING() | Return the substring as specified |
+| SUBSTRING_INDEX() | Return a substring from a string before the specified number of occurrences of the delimiter |
+| TO_BASE64() | Return the argument converted to a base-64 string |
+| TRIM() | Remove leading and trailing spaces |
+| UCASE() | Synonym for UPPER() |
+| UNHEX() | Return a string containing hex representation of a number |
+| UPPER() | Convert to uppercase |
+| WEIGHT_STRING() | Return the weight string for a string |
 
 
