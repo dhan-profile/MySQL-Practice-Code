@@ -9,6 +9,11 @@ In addition to the code in this repository, I have found the following resources
 
 * [SQL Documentation by MySQL](https://dev.mysql.com/doc/refman/8.0/en/)
 
+👇**MySQL DataSet for your practice**. It includes 🛑Queries for table creation upto **10,000 records**.🛑
+==============================================================
+
+* [MySQL Data Tables Query by Ben](https://github.com/bbrumm/databasestar/tree/main/sample_databases/sample_db_gravity/mysql)
+
 Contributing
 ------------
 
