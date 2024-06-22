@@ -91,11 +91,12 @@ SELECT RTRIM('  barbar   ');
 SELECT TRIM('  Hello   ');
 SELECT SUBSTRING('Quadratically',5);
 SELECT REPEAT('MySQL', 3);
-SELECT REPLACE('www.mysql.com', 'w', 'E');		-- REPLACE(str,from_str,to_str)
+SELECT REPLACE('www.mysql.com', 'w', 'E');		-- REPLACE(actual_str, from_str, to_str)
 SELECT REVERSE('Hello');
 SELECT SPACE(6);
 SELECT STRCMP('text', 'text');
 SELECT STRCMP('text', 'text1');
+SELECT STRCMP('text1', 'text');
 
 -- ==================================== INDEX ======================================
 
@@ -137,6 +138,19 @@ FROM marks AS m1
 CROSS JOIN student_info AS s1
 ON m1.Rollno = s1.Rollno;
 
+-- ======================== SUBQUERY =============================
+
+-- Find the addresses of students who have scored 'A' grade in Mathematics.
+select address from student_info 
+where rollno in (
+select rollno from marks 
+where grade='A' 
+and subjectname='Mathematics');
+
+
+
+
+
 -- ==================== Twitter DB ==========================
 
 select * from demodb1;
@@ -155,3 +169,4 @@ select impressions from demodb1 order by impressions desc limit 2,1;
 
 
 set sql_safe_updates = 0;
+
