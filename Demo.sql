@@ -4,7 +4,7 @@ INSERT INTO marks (Rollno, StudentName, SubjectName, Grade, Marks, Result)
 VALUES
   (1, 'Rahul Sharma', 'Mathematics', 'A', 85, 'Pass'),
   (2, 'Priya Patel', 'Science', 'B', 78, 'Pass'),
-  (3, 'Kunal Jain', 'English', 'A', 92, 'Pass'),
+  (3, 'Kunal registerJain', 'English', 'A', 92, 'Pass'),
   (4, 'Sonia Gupta', 'History', 'C', 68, 'Pass'),
   (5, 'Amit Kumar', 'Computer Science', 'A', 95, 'Pass'),
   (6, 'Neha Singh', 'Mathematics', 'B', 82, 'Pass'),
